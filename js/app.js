@@ -58,8 +58,8 @@
 
             const linkRow = document.createElement('tr');
             linkRow.innerHTML = `<td>Link</td>
-                                  <td class="object"><a href="https://mappingcolor.fas.harvard.edu/works/${productA.slug}?selectedAnalysis=${productA.analysis-id}">View on MCH</td>
-                                  <td class="object"><a href="https://mappingcolor.fas.harvard.edu/works/${productA.slug}?selectedAnalysis=${productA.analysis-id}">View on MCH</td>
+                                  <td class="object"><a href="https://mappingcolor.fas.harvard.edu/works/${productA.slug}?selectedAnalysis=${productA.analysisId}">View on MCH</td>
+                                  <td class="object"><a href="https://mappingcolor.fas.harvard.edu/works/${productA.slug}?selectedAnalysis=${productA.analysisId}">View on MCH</td>
                                 <td>Link</td>`;
             tableBody.appendChild(linkRow);
 
