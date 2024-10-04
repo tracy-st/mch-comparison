@@ -5,23 +5,22 @@ body, table, tr, td, div, select {
   font-style: normal;
 }
 table {
-  width: 100%;
+  min-width: 100%;
   border-collapse: collapse;
   margin-top: 20px;
 }
 tr, th{
-  border-top: 4px solid gray;
-  border-bottom: 4px solid gray;
+  border-top: 1px dotted gray;
+  border-bottom: 1px dotted gray;
+  vertical-align: top;
 }
 th, td {
   border: 1px solid #ddd;
   padding: 8px;
   text-align: left;
-  max-width:300px
+
 }
-td.class {
-  width:40%
-}
+
 th {
   background-color: #f4f4f4;
   position: sticky;
