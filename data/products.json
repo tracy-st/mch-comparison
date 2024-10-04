@@ -3,6 +3,7 @@
       {
          "id": 1,
          "name": "Krishna Subdues the Serpent King Kaliya",
+         "slug": "krishna-subdues-the-serpent-king-kaliya",
          "thumbUrl": "https://ids.lib.harvard.edu/ids/iiif/43534054/full/300,/0/default.jpg",
          "accessionNumber": "1992.283",
          "link": "https://hvrd.art/o/213690",
@@ -710,6 +711,7 @@
       {
          "id": 2,
          "name": "Krishna Quells the Serpent Kaliya",
+         "slug": "krishna-quells-the-serpent-kaliya",
          "thumbUrl": "https://ids.lib.harvard.edu/ids/iiif/434430945/full/300,/0/default.jpg",
          "accessionNumber": "1974.129",
          "link": "https://hvrd.art/o/216135",
@@ -1961,6 +1963,8 @@
       {
          "id": 3,
          "name": "Krishna Receives Homage from a Prince (Analysis 1)",
+         "slug": "krishna-receives-homage-from-a-prince",
+         "analysis-id": "5ddb73cc-2128-420c-abf8-0574e279df02",
          "uuid": "793d2754-bfe3-4988-93d5-33e94ddc87e4",
          "thumbUrl": "https://ids.lib.harvard.edu/ids/iiif/481846326/full/300,/0/default.jpg",
          "accessionNumber": "1960.53",
@@ -2276,6 +2280,8 @@
      {
       "id": 4,
       "name": "Krishna Receives Homage from a Prince (Analysis 2)",
+      "slug": "krishna-receives-homage-from-a-prince",
+      "analysis-id": "58d48139-8ade-4a61-818b-5b18f34dc4f1",
       "uuid": "793d2754-bfe3-4988-93d5-33e94ddc87e4",
       "thumbUrl": "https://ids.lib.harvard.edu/ids/iiif/481846326/full/300,/0/default.jpg",
       "accessionNumber": "1960.53",
