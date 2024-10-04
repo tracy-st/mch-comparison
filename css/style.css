@@ -34,3 +34,7 @@ img {
   width:50px;
   height:100%
 }
+
+p {
+  margin: 0 0 5px 0;
+}

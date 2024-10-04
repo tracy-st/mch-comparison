@@ -74,7 +74,7 @@
             // Iterate over all colors and compare specs
             allColorNames.forEach(color => {               
                 const row = document.createElement('tr');
-                row.innerHTML = `<td style="border-right: 20px solid ${color}">${color}</div></td>`;
+                row.innerHTML = `<td style="border-right: 20px solid ${color}">${color}</td>`;
 
                 [productA, productB].forEach(product => {
                     const colorSpecs = product.specs[color] || [];
@@ -83,9 +83,8 @@
                             const pigmentNames = spec.visiblecolorpigmentSet.map(p => p.pigment.name).join(', ');
                             const elementDetails = spec.visiblecolorelementSet.map(e => `${e.element.name} (${e.amount})`).join(', ');
                             return `
-                                <strong>Description:</strong> ${spec.description || 'No description'}<br>
-                                <strong>Pigments:</strong> ${pigmentNames || 'No pigments'}<br>
-                                <strong>Elements:</strong> ${elementDetails || 'No elements'}
+                               <p><strong>Pigments:</strong> ${pigmentNames || 'No pigments'}</p>
+                                <p><strong>Elements:</strong> ${elementDetails || 'No elements'}</p>
                             `;
                         }).join('<hr>');
                         row.innerHTML += `<td>${specDetails}</td>`;
