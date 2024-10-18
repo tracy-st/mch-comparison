@@ -3345,6 +3345,7 @@
       "specs": {
           "Red": [
             {
+                  "id": "2644",
                   "description": "",
                   "color": {
                     "name": "Red",
@@ -3386,6 +3387,7 @@
               ],
           "Pink": [
             {
+              "id": "2645",
               "description": "",
               "color": {
                 "name": "Pink",
@@ -3438,6 +3440,7 @@
               ]
             },
             {
+              "id": "2646",
               "description": "Bright green fluorescene; likely modern inpainting of zinc white",
               "color": {
                 "name": "Pink",
@@ -3486,6 +3489,7 @@
           ],
           "Orange": [
             {
+              "id": "2647",
               "description": "",
               "color": {
                 "name": "Orange",
@@ -3527,6 +3531,7 @@
           ],
           "Metallic": [
             {
+              "id": "2655",
               "description": "",
               "color": {
                 "name": "Metallic",
@@ -3586,6 +3591,7 @@
               ]
             },
             {
+              "id": "2656",
               "description": "",
               "color": {
                 "name": "Metallic",
@@ -3696,6 +3702,7 @@
           ],
           "Yellow": [
             {
+              "id": "2649",
               "description": "Fluorescent in UV",
               "color": {
                 "name": "Yellow",
@@ -3751,6 +3758,7 @@
           ],
             "Green": [
             {
+              "id": "2650",
               "description": "Slightly fluorescent and semi-transparent",
               "color": {
                 "name": "Green",
@@ -3812,6 +3820,7 @@
           ],
           "Blue": [
             {
+              "id": "2651",
               "description": "needs further analysis",
               "color": {
                 "name": "Blue",
@@ -3879,6 +3888,7 @@
           ],
           "White": [
             {
+              "id": "2652",
               "description": "needs further analysis\r\n\r\nPt 13 has less Ca because very little pigment remains",
               "color": {
                 "name": "White",
@@ -3920,6 +3930,7 @@
           ],
           "Grey": [
             {
+              "id": "2653",
               "description": "needs further analysis\r\n\r\nSlightly opaque in IRR thus may contain carbon black",
               "color": {
                 "name": "Grey",
@@ -3967,6 +3978,7 @@
           ],
           "Black": [
             {
+              "id": "2654",
               "description": "Opaque in IRR thus contains carbon black",
               "color": {
                 "name": "Black",
