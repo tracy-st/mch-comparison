@@ -2287,6 +2287,7 @@
       "accessionNumber": "1960.53",
       "link": "https://hvrd.art/o/216673",
       "specs": {
+        "description": "HAM preliminary study; unpublished report",
         "Red": [
           {
             "description": "Darker red over lighter red",
@@ -3332,6 +3333,701 @@
           }
         ]
      }
+    },
+    {
+      "id": 5,
+      "name": "Young Lord Krishna and His Friends Steal His Mother's Butter",
+      "slug": "young-lord-krishna-and-his-friends-steal-his-mothers-butter",
+      "uuid": "a7b10f13-ec5b-413f-b59d-80370774ec4b",
+      "thumbUrl": "https://ids.lib.harvard.edu/ids/iiif/20672768/full/300,/0/default.jpg",
+      "accessionNumber": "1974.128",
+      "link": "https://harvardartmuseums.org/collections/object/216134?position=0",
+      "specs": {
+          "Red": [
+            {
+                  "description": "",
+                  "color": {
+                    "name": "Red",
+                    "hexCode": "D64141"
+                  },
+                  "substrate": false,
+                  "visiblecolorpigmentSet": [
+                    {
+                      "pigment": {
+                        "name": "Organic red"
+                      },
+                      "certaintyLevel": "A_2"
+                    }
+                  ],
+                  "visiblecolorelementSet": [
+                    {
+                      "element": {
+                        "name": "Lead",
+                        "symbol": "Pb"
+                      },
+                      "amount": "TRACE"
+                    },
+                    {
+                      "element": {
+                        "name": "Mercury",
+                        "symbol": "Hg"
+                      },
+                      "amount": "TRACE"
+                    },
+                    {
+                      "element": {
+                        "name": "Iron",
+                        "symbol": "Fe"
+                      },
+                      "amount": "TRACE"
+                    }
+                  ]
+                }
+              ],
+          "Pink": [
+            {
+              "description": "",
+              "color": {
+                "name": "Pink",
+                "hexCode": "D1548D"
+              },
+              "substrate": false,
+              "visiblecolorpigmentSet": [
+                {
+                  "pigment": {
+                    "name": "Calcite"
+                  },
+                  "certaintyLevel": "A_2"
+                },
+                {
+                  "pigment": {
+                    "name": "Organic red"
+                  },
+                  "certaintyLevel": "A_2"
+                }
+              ],
+              "visiblecolorelementSet": [
+                {
+                  "element": {
+                    "name": "Calcium",
+                    "symbol": "Ca"
+                  },
+                  "amount": "MAJOR"
+                },
+                {
+                  "element": {
+                    "name": "Arsenic",
+                    "symbol": "As"
+                  },
+                  "amount": "TRACE"
+                },
+                {
+                  "element": {
+                    "name": "Lead",
+                    "symbol": "Pb"
+                  },
+                  "amount": "TRACE"
+                },
+                {
+                  "element": {
+                    "name": "Iron",
+                    "symbol": "Fe"
+                  },
+                  "amount": "TRACE"
+                }
+              ]
+            },
+            {
+              "description": "Bright green fluorescene; likely modern inpainting of zinc white",
+              "color": {
+                "name": "Pink",
+                "hexCode": "D1548D"
+              },
+              "substrate": false,
+              "visiblecolorpigmentSet": [
+                {
+                  "pigment": {
+                    "name": "Zinc white"
+                  },
+                  "certaintyLevel": "A_1"
+                }
+              ],
+              "visiblecolorelementSet": [
+                {
+                  "element": {
+                    "name": "Calcium",
+                    "symbol": "Ca"
+                  },
+                  "amount": "MINOR"
+                },
+                {
+                  "element": {
+                    "name": "Lead",
+                    "symbol": "Pb"
+                  },
+                  "amount": "TRACE"
+                },
+                {
+                  "element": {
+                    "name": "Iron",
+                    "symbol": "Fe"
+                  },
+                  "amount": "TRACE"
+                },
+                {
+                  "element": {
+                    "name": "Zinc",
+                    "symbol": "Zn"
+                  },
+                  "amount": "MAJOR"
+                }
+              ]
+            }
+          ],
+          "Orange": [
+            {
+              "description": "",
+              "color": {
+                "name": "Orange",
+                "hexCode": "F36E3A"
+              },
+              "substrate": false,
+              "visiblecolorpigmentSet": [
+                {
+                  "pigment": {
+                    "name": "Red lead"
+                  },
+                  "certaintyLevel": "A_1"
+                }
+              ],
+              "visiblecolorelementSet": [
+                {
+                  "element": {
+                    "name": "Lead",
+                    "symbol": "Pb"
+                  },
+                  "amount": "MAJOR"
+                },
+                {
+                  "element": {
+                    "name": "Calcium",
+                    "symbol": "Ca"
+                  },
+                  "amount": "TRACE"
+                },
+                {
+                  "element": {
+                    "name": "Iron",
+                    "symbol": "Fe"
+                  },
+                  "amount": "TRACE"
+                }
+              ]
+            }
+          ],
+          "Metallic": [
+            {
+              "description": "",
+              "color": {
+                "name": "Metallic",
+                "hexCode": "DDCCAD"
+              },
+              "substrate": false,
+              "visiblecolorpigmentSet": [
+                {
+                  "pigment": {
+                    "name": "Gold"
+                  },
+                  "certaintyLevel": "A_1"
+                },
+                {
+                  "pigment": {
+                    "name": "Silver"
+                  },
+                  "certaintyLevel": "A_1"
+                }
+              ],
+              "visiblecolorelementSet": [
+                {
+                  "element": {
+                    "name": "Gold",
+                    "symbol": "Au"
+                  },
+                  "amount": "MAJOR"
+                },
+                {
+                  "element": {
+                    "name": "Silver",
+                    "symbol": "Ag"
+                  },
+                  "amount": "MAJOR"
+                },
+                {
+                  "element": {
+                    "name": "Lead",
+                    "symbol": "Pb"
+                  },
+                  "amount": "TRACE"
+                },
+                {
+                  "element": {
+                    "name": "Iron",
+                    "symbol": "Fe"
+                  },
+                  "amount": "TRACE"
+                },
+                {
+                  "element": {
+                    "name": "Calcium",
+                    "symbol": "Ca"
+                  },
+                  "amount": "TRACE"
+                }
+              ]
+            },
+            {
+              "description": "",
+              "color": {
+                "name": "Metallic",
+                "hexCode": "DDCCAD"
+              },
+              "substrate": false,
+              "visiblecolorpigmentSet": [
+                {
+                  "pigment": {
+                    "name": "Gold"
+                  },
+                  "certaintyLevel": "A_1"
+                }
+              ],
+              "visiblecolorelementSet": [
+                {
+                  "element": {
+                    "name": "Gold",
+                    "symbol": "Au"
+                  },
+                  "amount": "MAJOR"
+                },
+                {
+                  "element": {
+                    "name": "Lead",
+                    "symbol": "Pb"
+                  },
+                  "amount": "TRACE"
+                },
+                {
+                  "element": {
+                    "name": "Iron",
+                    "symbol": "Fe"
+                  },
+                  "amount": "TRACE"
+                },
+                {
+                  "element": {
+                    "name": "Calcium",
+                    "symbol": "Ca"
+                  },
+                  "amount": "TRACE"
+                }
+              ]
+            }
+          ],
+          "Brown": [            
+            {
+              "description": "Mostly transparent in IRR indication only small amounts or iron or copper based pigments",
+              "color": {
+                "name": "Brown",
+                "hexCode": "724D33"
+              },
+              "substrate": false,
+              "visiblecolorpigmentSet": [
+                {
+                  "pigment": {
+                    "name": "Unknown"
+                  },
+                  "certaintyLevel": "A_3"
+                }
+              ],
+              "visiblecolorelementSet": [
+                {
+                  "element": {
+                    "name": "Zinc",
+                    "symbol": "Zn"
+                  },
+                  "amount": "TRACE"
+                },
+                {
+                  "element": {
+                    "name": "Lead",
+                    "symbol": "Pb"
+                  },
+                  "amount": "TRACE"
+                },
+                {
+                  "element": {
+                    "name": "Iron",
+                    "symbol": "Fe"
+                  },
+                  "amount": "TRACE"
+                },
+                {
+                  "element": {
+                    "name": "Calcium",
+                    "symbol": "Ca"
+                  },
+                  "amount": "TRACE"
+                },
+                {
+                  "element": {
+                    "name": "Potassium",
+                    "symbol": "K"
+                  },
+                  "amount": "TRACE"
+                },
+                {
+                  "element": {
+                    "name": "Titanium",
+                    "symbol": "Ti"
+                  },
+                  "amount": "TRACE"
+                }
+              ]
+            }
+          ],
+          "Yellow": [
+            {
+              "description": "Fluorescent in UV",
+              "color": {
+                "name": "Yellow",
+                "hexCode": "FFD93E"
+              },
+              "substrate": false,
+              "visiblecolorpigmentSet": [
+                {
+                  "pigment": {
+                    "name": "Indian yellow"
+                  },
+                  "certaintyLevel": "A_1"
+                }
+              ],
+              "visiblecolorelementSet": [
+                {
+                  "element": {
+                    "name": "Lead",
+                    "symbol": "Pb"
+                  },
+                  "amount": "TRACE"
+                },
+                {
+                  "element": {
+                    "name": "Gold",
+                    "symbol": "Au"
+                  },
+                  "amount": "TRACE"
+                },
+                {
+                  "element": {
+                    "name": "Iron",
+                    "symbol": "Fe"
+                  },
+                  "amount": "TRACE"
+                },
+                {
+                  "element": {
+                    "name": "Titanium",
+                    "symbol": "Ti"
+                  },
+                  "amount": "TRACE"
+                },
+                {
+                  "element": {
+                    "name": "Arsenic",
+                    "symbol": "As"
+                  },
+                  "amount": "TRACE"
+                }
+              ]
+            }
+          ],
+            "Green": [
+            {
+              "description": "Slightly fluorescent and semi-transparent",
+              "color": {
+                "name": "Green",
+                "hexCode": "38C172"
+              },
+              "substrate": false,
+              "visiblecolorpigmentSet": [
+                {
+                  "pigment": {
+                    "name": "Copper green"
+                  },
+                  "certaintyLevel": "A_2"
+                },
+                {
+                  "pigment": {
+                    "name": "Indian yellow"
+                  },
+                  "certaintyLevel": "A_2"
+                }
+              ],
+              "visiblecolorelementSet": [
+                {
+                  "element": {
+                    "name": "Copper",
+                    "symbol": "Cu"
+                  },
+                  "amount": "MAJOR"
+                },
+                {
+                  "element": {
+                    "name": "Lead",
+                    "symbol": "Pb"
+                  },
+                  "amount": "TRACE"
+                },
+                {
+                  "element": {
+                    "name": "Iron",
+                    "symbol": "Fe"
+                  },
+                  "amount": "TRACE"
+                },
+                {
+                  "element": {
+                    "name": "Potassium",
+                    "symbol": "K"
+                  },
+                  "amount": "TRACE"
+                },
+                {
+                  "element": {
+                    "name": "Calcium",
+                    "symbol": "Ca"
+                  },
+                  "amount": "TRACE"
+                }
+              ]
+            }
+          ],
+          "Blue": [
+            {
+              "description": "needs further analysis",
+              "color": {
+                "name": "Blue",
+                "hexCode": "2876B5"
+              },
+              "substrate": false,
+              "visiblecolorpigmentSet": [
+                {
+                  "pigment": {
+                    "name": "Ultramarine"
+                  },
+                  "certaintyLevel": "A_2"
+                },
+                {
+                  "pigment": {
+                    "name": "Indigo"
+                  },
+                  "certaintyLevel": "A_2"
+                },
+                {
+                  "pigment": {
+                    "name": "Calcite"
+                  },
+                  "certaintyLevel": "A_2"
+                }
+              ],
+              "visiblecolorelementSet": [
+                {
+                  "element": {
+                    "name": "Calcium",
+                    "symbol": "Ca"
+                  },
+                  "amount": "MAJOR"
+                },
+                {
+                  "element": {
+                    "name": "Lead",
+                    "symbol": "Pb"
+                  },
+                  "amount": "TRACE"
+                },
+                {
+                  "element": {
+                    "name": "Iron",
+                    "symbol": "Fe"
+                  },
+                  "amount": "TRACE"
+                },
+                {
+                  "element": {
+                    "name": "Potassium",
+                    "symbol": "K"
+                  },
+                  "amount": "TRACE"
+                },
+                {
+                  "element": {
+                    "name": "Calcium",
+                    "symbol": "Ca"
+                  },
+                  "amount": "TRACE"
+                }
+              ]
+            }
+          ],
+          "White": [
+            {
+              "description": "needs further analysis\r\n\r\nPt 13 has less Ca because very little pigment remains",
+              "color": {
+                "name": "White",
+                "hexCode": "FFFFFF"
+              },
+              "substrate": false,
+              "visiblecolorpigmentSet": [
+                {
+                  "pigment": {
+                    "name": "Calcite"
+                  },
+                  "certaintyLevel": "A_2"
+                }
+              ],
+              "visiblecolorelementSet": [
+                {
+                  "element": {
+                    "name": "Calcium",
+                    "symbol": "Ca"
+                  },
+                  "amount": "MAJOR"
+                },
+                {
+                  "element": {
+                    "name": "Iron",
+                    "symbol": "Fe"
+                  },
+                  "amount": "TRACE"
+                },
+                {
+                  "element": {
+                    "name": "Lead",
+                    "symbol": "Pb"
+                  },
+                  "amount": "TRACE"
+                }
+              ]
+            }
+          ],
+          "Grey": [
+            {
+              "description": "needs further analysis\r\n\r\nSlightly opaque in IRR thus may contain carbon black",
+              "color": {
+                "name": "Grey",
+                "hexCode": "A6A6A6"
+              },
+              "substrate": false,
+              "visiblecolorpigmentSet": [
+                {
+                  "pigment": {
+                    "name": "Carbon black"
+                  },
+                  "certaintyLevel": "A_2"
+                },
+                {
+                  "pigment": {
+                    "name": "Calcite"
+                  },
+                  "certaintyLevel": "A_2"
+                }
+              ],
+              "visiblecolorelementSet": [
+                {
+                  "element": {
+                    "name": "Calcium",
+                    "symbol": "Ca"
+                  },
+                  "amount": "MAJOR"
+                },
+                {
+                  "element": {
+                    "name": "Lead",
+                    "symbol": "Pb"
+                  },
+                  "amount": "TRACE"
+                },
+                {
+                  "element": {
+                    "name": "Mercury",
+                    "symbol": "Hg"
+                  },
+                  "amount": "TRACE"
+                }
+              ]
+            }
+          ],
+          "Black": [
+            {
+              "description": "Opaque in IRR thus contains carbon black",
+              "color": {
+                "name": "Black",
+                "hexCode": "000000"
+              },
+              "substrate": false,
+              "visiblecolorpigmentSet": [
+                {
+                  "pigment": {
+                    "name": "Carbon black"
+                  },
+                  "certaintyLevel": "A_2"
+                }
+              ],
+              "visiblecolorelementSet": [
+                {
+                  "element": {
+                    "name": "Lead",
+                    "symbol": "Pb"
+                  },
+                  "amount": "TRACE"
+                },
+                {
+                  "element": {
+                    "name": "Mercury",
+                    "symbol": "Hg"
+                  },
+                  "amount": "TRACE"
+                },
+                {
+                  "element": {
+                    "name": "Iron",
+                    "symbol": "Fe"
+                  },
+                  "amount": "TRACE"
+                },
+                {
+                  "element": {
+                    "name": "Calcium",
+                    "symbol": "Ca"
+                  },
+                  "amount": "TRACE"
+                },
+                {
+                  "element": {
+                    "name": "Potassium",
+                    "symbol": "K"
+                  },
+                  "amount": "TRACE"
+                },
+                {
+                  "element": {
+                    "name": "Titanium",
+                    "symbol": "Ti"
+                  },
+                  "amount": "TRACE"
+                }
+              ]
+            }
+          ]
+        }
     }
    ]
 }
