@@ -37,7 +37,7 @@ function populateDropdowns() {
 }
 
 function fetchJsonFile(fileName) {
-  return fetch(`../data/${fileName}`).then(res => res.json()).catch(err => {
+  return fetch(`/mch-comparison/data/${fileName}`).then(res => res.json()).catch(err => {
     console.error(`Error loading ${fileName}:`, err);
     return {};
   });
