@@ -54,6 +54,7 @@ function renderMetadata(data, container) {
     return;
   }
   const title = work.title || '—';
+  const slug = work.slug || '—';
   const accession = work.accessionNumber || '—';
   const height = work.height || '—';
   const width = work.width || '—';
@@ -69,7 +70,7 @@ function renderMetadata(data, container) {
     <div><strong>Accession #:</strong> ${accession}</div>
     <div><strong>Size:</strong> ${height} × ${width} cm</div>
     <div><strong>Repository:</strong> ${repo}</div>
-  `;
+    <div><a href="https://mappingcolor.fas.harvard.edu/works/${slug}" target="_blank">View on MCH</a></div> `;
 }
 
 function groupByColorName(data) {
@@ -106,11 +107,20 @@ function formatEntry(entry) {
     }).join('<br>') || '—';
 
   return `
-    <div class="swatch" style="background-color: ${hex};"></div>
-    <div class="color-name">${name}</div>
-    <div class="description"><strong>Description:</strong> ${desc}</div>
-    <div class="pigments"><strong>Pigments:</strong><br>${pigments}</div>
-    <div class="elements"><strong>Elements:</strong><br>${elements}</div>
+    <div class="color-box">
+        <div class="color-top">
+            <div class="swatch" style="background-color: ${hex};"></div>
+             <div class="color-meta"> 
+                 <div class="color-name">${name}</div>
+                 <div class="description"><strong>Description:</strong> ${desc}</div>
+            </div>
+        </div>
+
+        <div class="color-detail">
+             <div class="pigments"><strong>Pigments:</strong><br>${pigments}</div>
+             <div class="elements"><strong>Elements:</strong><br>${elements}</div>
+        </div>
+    </div>
   `;
 }
 
