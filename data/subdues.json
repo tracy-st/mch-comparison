@@ -1,0 +1,726 @@
+{
+  "data": {
+    "work": {
+      "title": "Krishna Subdues the Serpent King Kaliya",
+      "slug": "krishna-subdues-the-serpent-king-kaliya",
+      "id": "V29ya1R5cGU6MjA=",
+      "uuid": "ee943c1f-2568-4024-8b79-06b5c5f60657",
+      "image": {
+        "id": "62",
+        "imageUrl": "https://ids.lib.harvard.edu/ids/iiif/43534054/full/full/0/default.jpg"
+      },
+      "accessionNumber": "1992.283",
+      "width": "23 cm",
+      "height": "17.5 cm",
+      "artist": {
+        "name": "Artist once known",
+        "description": ""
+      },
+      "link": "https://hvrd.art/o/213690",
+      "classification": {
+        "name": "Manuscript folio"
+      },
+      "mediums": [
+        {
+          "name": "Paper"
+        },
+        {
+          "name": "Watercolor"
+        }
+      ],
+      "repository": {
+        "name": "Harvard Art Museums",
+        "description": ""
+      },
+      "analysisSet": [
+        {
+          "uuid": "3eb24b4e-384f-4273-be83-b00257669673",
+          "visiblecolorSet": [
+            {
+              "description": "Raman confirmed orpiment",
+              "color": {
+                "name": "Yellow",
+                "hexCode": "FFD93E"
+              },
+              "substrate": false,
+              "visiblecolorhierarchicalpigmentSet": [
+                {
+                  "hierarchicalPigment": {
+                    "name": "Orpiment"
+                  },
+                  "confidenceLevel": "A_1"
+                }
+              ],
+              "visiblecolorelementSet": [
+                {
+                  "element": {
+                    "name": "Arsenic",
+                    "symbol": "As"
+                  },
+                  "amount": "MAJOR"
+                },
+                {
+                  "element": {
+                    "name": "Sulfur",
+                    "symbol": "S"
+                  },
+                  "amount": "MAJOR"
+                }
+              ]
+            },
+            {
+              "description": "Raman confirmed vermilion/cinnabar.",
+              "color": {
+                "name": "Red",
+                "hexCode": "D64141"
+              },
+              "substrate": false,
+              "visiblecolorhierarchicalpigmentSet": [
+                {
+                  "hierarchicalPigment": {
+                    "name": "Vermilion"
+                  },
+                  "confidenceLevel": "A_1"
+                }
+              ],
+              "visiblecolorelementSet": [
+                {
+                  "element": {
+                    "name": "Mercury",
+                    "symbol": "Hg"
+                  },
+                  "amount": "MAJOR"
+                },
+                {
+                  "element": {
+                    "name": "Arsenic",
+                    "symbol": "As"
+                  },
+                  "amount": "TRACE"
+                },
+                {
+                  "element": {
+                    "name": "Sulfur",
+                    "symbol": "S"
+                  },
+                  "amount": "MAJOR"
+                }
+              ]
+            },
+            {
+              "description": "XRF is similar to white areas; Raman showed no identifiable peaks; this indicates white clay and organic red; in South Asian material, organic red is likely to be madder or lac dye.",
+              "color": {
+                "name": "Pink",
+                "hexCode": "D1548D"
+              },
+              "substrate": false,
+              "visiblecolorhierarchicalpigmentSet": [
+                {
+                  "hierarchicalPigment": {
+                    "name": "Clay white"
+                  },
+                  "confidenceLevel": "A_2"
+                },
+                {
+                  "hierarchicalPigment": {
+                    "name": "Organic red"
+                  },
+                  "confidenceLevel": "A_2"
+                }
+              ],
+              "visiblecolorelementSet": [
+                {
+                  "element": {
+                    "name": "Silicon",
+                    "symbol": "Si"
+                  },
+                  "amount": "MINOR"
+                },
+                {
+                  "element": {
+                    "name": "Iron",
+                    "symbol": "Fe"
+                  },
+                  "amount": "MINOR"
+                },
+                {
+                  "element": {
+                    "name": "Aluminum",
+                    "symbol": "Al"
+                  },
+                  "amount": "MINOR"
+                },
+                {
+                  "element": {
+                    "name": "Titanium",
+                    "symbol": "Ti"
+                  },
+                  "amount": "MINOR"
+                },
+                {
+                  "element": {
+                    "name": "Potassium",
+                    "symbol": "K"
+                  },
+                  "amount": "MINOR"
+                },
+                {
+                  "element": {
+                    "name": "Mercury",
+                    "symbol": "Hg"
+                  },
+                  "amount": "TRACE"
+                }
+              ]
+            },
+            {
+              "description": "Transparent in IR; indigo confirmed with Raman; orpiment is from adjacent areas",
+              "color": {
+                "name": "Black",
+                "hexCode": "000000"
+              },
+              "substrate": false,
+              "visiblecolorhierarchicalpigmentSet": [
+                {
+                  "hierarchicalPigment": {
+                    "name": "Indigo"
+                  },
+                  "confidenceLevel": "A_1"
+                }
+              ],
+              "visiblecolorelementSet": [
+                {
+                  "element": {
+                    "name": "Silicon",
+                    "symbol": "Si"
+                  },
+                  "amount": "TRACE"
+                },
+                {
+                  "element": {
+                    "name": "Iron",
+                    "symbol": "Fe"
+                  },
+                  "amount": "TRACE"
+                },
+                {
+                  "element": {
+                    "name": "Arsenic",
+                    "symbol": "As"
+                  },
+                  "amount": "TRACE"
+                },
+                {
+                  "element": {
+                    "name": "Sulfur",
+                    "symbol": "S"
+                  },
+                  "amount": "TRACE"
+                },
+                {
+                  "element": {
+                    "name": "Calcium",
+                    "symbol": "Ca"
+                  },
+                  "amount": "TRACE"
+                }
+              ]
+            },
+            {
+              "description": "Brown figures and birds are somewhat opaque in IR, consistent with a mixture of iron ochre and orpiment; Raman confirmed only orpiment.",
+              "color": {
+                "name": "Brown",
+                "hexCode": "724D33"
+              },
+              "substrate": false,
+              "visiblecolorhierarchicalpigmentSet": [
+                {
+                  "hierarchicalPigment": {
+                    "name": "Red ocher"
+                  },
+                  "confidenceLevel": "A_2"
+                },
+                {
+                  "hierarchicalPigment": {
+                    "name": "Orpiment"
+                  },
+                  "confidenceLevel": "A_1"
+                }
+              ],
+              "visiblecolorelementSet": [
+                {
+                  "element": {
+                    "name": "Arsenic",
+                    "symbol": "As"
+                  },
+                  "amount": "MAJOR"
+                },
+                {
+                  "element": {
+                    "name": "Sulfur",
+                    "symbol": "S"
+                  },
+                  "amount": "MAJOR"
+                },
+                {
+                  "element": {
+                    "name": "Mercury",
+                    "symbol": "Hg"
+                  },
+                  "amount": "TRACE"
+                },
+                {
+                  "element": {
+                    "name": "Iron",
+                    "symbol": "Fe"
+                  },
+                  "amount": "MINOR"
+                },
+                {
+                  "element": {
+                    "name": "Calcium",
+                    "symbol": "Ca"
+                  },
+                  "amount": "TRACE"
+                },
+                {
+                  "element": {
+                    "name": "Potassium",
+                    "symbol": "K"
+                  },
+                  "amount": "TRACE"
+                }
+              ]
+            },
+            {
+              "description": "Transparent in IR, Raman confirmed orpiment and indigo",
+              "color": {
+                "name": "Green",
+                "hexCode": "38C172"
+              },
+              "substrate": false,
+              "visiblecolorhierarchicalpigmentSet": [
+                {
+                  "hierarchicalPigment": {
+                    "name": "Orpiment"
+                  },
+                  "confidenceLevel": "A_1"
+                },
+                {
+                  "hierarchicalPigment": {
+                    "name": "Indigo"
+                  },
+                  "confidenceLevel": "A_1"
+                }
+              ],
+              "visiblecolorelementSet": [
+                {
+                  "element": {
+                    "name": "Sulfur",
+                    "symbol": "S"
+                  },
+                  "amount": "MAJOR"
+                },
+                {
+                  "element": {
+                    "name": "Arsenic",
+                    "symbol": "As"
+                  },
+                  "amount": "MAJOR"
+                }
+              ]
+            },
+            {
+              "description": "Raman confirmed ultramarine",
+              "color": {
+                "name": "Blue",
+                "hexCode": "2876B5"
+              },
+              "substrate": false,
+              "visiblecolorhierarchicalpigmentSet": [
+                {
+                  "hierarchicalPigment": {
+                    "name": "Ultramarine"
+                  },
+                  "confidenceLevel": "A_1"
+                }
+              ],
+              "visiblecolorelementSet": [
+                {
+                  "element": {
+                    "name": "Potassium",
+                    "symbol": "K"
+                  },
+                  "amount": "MINOR"
+                },
+                {
+                  "element": {
+                    "name": "Aluminum",
+                    "symbol": "Al"
+                  },
+                  "amount": "MINOR"
+                },
+                {
+                  "element": {
+                    "name": "Iron",
+                    "symbol": "Fe"
+                  },
+                  "amount": "MINOR"
+                },
+                {
+                  "element": {
+                    "name": "Silicon",
+                    "symbol": "Si"
+                  },
+                  "amount": "MINOR"
+                },
+                {
+                  "element": {
+                    "name": "Titanium",
+                    "symbol": "Ti"
+                  },
+                  "amount": "MINOR"
+                },
+                {
+                  "element": {
+                    "name": "Calcium",
+                    "symbol": "Ca"
+                  },
+                  "amount": "MINOR"
+                }
+              ]
+            },
+            {
+              "description": "Raman showed no identifiable peaks; Some arsenic present in the spectra likely from underlying background.",
+              "color": {
+                "name": "White",
+                "hexCode": "FFFFFF"
+              },
+              "substrate": false,
+              "visiblecolorhierarchicalpigmentSet": [
+                {
+                  "hierarchicalPigment": {
+                    "name": "Clay white"
+                  },
+                  "confidenceLevel": "A_2"
+                }
+              ],
+              "visiblecolorelementSet": [
+                {
+                  "element": {
+                    "name": "Silicon",
+                    "symbol": "Si"
+                  },
+                  "amount": "MAJOR"
+                },
+                {
+                  "element": {
+                    "name": "Potassium",
+                    "symbol": "K"
+                  },
+                  "amount": "MAJOR"
+                },
+                {
+                  "element": {
+                    "name": "Titanium",
+                    "symbol": "Ti"
+                  },
+                  "amount": "MAJOR"
+                },
+                {
+                  "element": {
+                    "name": "Aluminum",
+                    "symbol": "Al"
+                  },
+                  "amount": "MAJOR"
+                },
+                {
+                  "element": {
+                    "name": "Iron",
+                    "symbol": "Fe"
+                  },
+                  "amount": "MAJOR"
+                }
+              ]
+            },
+            {
+              "description": "",
+              "color": {
+                "name": "Yellow",
+                "hexCode": "FFD93E"
+              },
+              "substrate": false,
+              "visiblecolorhierarchicalpigmentSet": [
+                {
+                  "hierarchicalPigment": {
+                    "name": "Orpiment"
+                  },
+                  "confidenceLevel": "A_1"
+                }
+              ],
+              "visiblecolorelementSet": [
+                {
+                  "element": {
+                    "name": "Arsenic",
+                    "symbol": "As"
+                  },
+                  "amount": "MAJOR"
+                },
+                {
+                  "element": {
+                    "name": "Sulfur",
+                    "symbol": "S"
+                  },
+                  "amount": "MAJOR"
+                }
+              ]
+            },
+            {
+              "description": "",
+              "color": {
+                "name": "Red",
+                "hexCode": "D64141"
+              },
+              "substrate": false,
+              "visiblecolorhierarchicalpigmentSet": [
+                {
+                  "hierarchicalPigment": {
+                    "name": "Vermilion"
+                  },
+                  "confidenceLevel": "A_1"
+                }
+              ],
+              "visiblecolorelementSet": [
+                {
+                  "element": {
+                    "name": "Mercury",
+                    "symbol": "Hg"
+                  },
+                  "amount": "MAJOR"
+                },
+                {
+                  "element": {
+                    "name": "Sulfur",
+                    "symbol": "S"
+                  },
+                  "amount": "MAJOR"
+                }
+              ]
+            },
+            {
+              "description": "Raman confirmed vermilion/cinnabar; Arsenic from underlying green pigment",
+              "color": {
+                "name": "Red",
+                "hexCode": "D64141"
+              },
+              "substrate": false,
+              "visiblecolorhierarchicalpigmentSet": [
+                {
+                  "hierarchicalPigment": {
+                    "name": "Vermilion"
+                  },
+                  "confidenceLevel": "A_1"
+                }
+              ],
+              "visiblecolorelementSet": [
+                {
+                  "element": {
+                    "name": "Mercury",
+                    "symbol": "Hg"
+                  },
+                  "amount": "MAJOR"
+                },
+                {
+                  "element": {
+                    "name": "Sulfur",
+                    "symbol": "S"
+                  },
+                  "amount": "MAJOR"
+                },
+                {
+                  "element": {
+                    "name": "Arsenic",
+                    "symbol": "As"
+                  },
+                  "amount": "MINOR"
+                }
+              ]
+            },
+            {
+              "description": "",
+              "color": {
+                "name": "Red",
+                "hexCode": "D64141"
+              },
+              "substrate": false,
+              "visiblecolorhierarchicalpigmentSet": [
+                {
+                  "hierarchicalPigment": {
+                    "name": "Vermilion"
+                  },
+                  "confidenceLevel": "A_1"
+                }
+              ],
+              "visiblecolorelementSet": [
+                {
+                  "element": {
+                    "name": "Mercury",
+                    "symbol": "Hg"
+                  },
+                  "amount": "MAJOR"
+                }
+              ]
+            },
+            {
+              "description": "Pale blue with flaked paint; Raman confirmed indigo",
+              "color": {
+                "name": "Blue",
+                "hexCode": "2876B5"
+              },
+              "substrate": false,
+              "visiblecolorhierarchicalpigmentSet": [
+                {
+                  "hierarchicalPigment": {
+                    "name": "Indigo"
+                  },
+                  "confidenceLevel": "A_1"
+                },
+                {
+                  "hierarchicalPigment": {
+                    "name": "Clay white"
+                  },
+                  "confidenceLevel": "A_2"
+                }
+              ],
+              "visiblecolorelementSet": [
+                {
+                  "element": {
+                    "name": "Aluminum",
+                    "symbol": "Al"
+                  },
+                  "amount": "TRACE"
+                },
+                {
+                  "element": {
+                    "name": "Silicon",
+                    "symbol": "Si"
+                  },
+                  "amount": "TRACE"
+                },
+                {
+                  "element": {
+                    "name": "Potassium",
+                    "symbol": "K"
+                  },
+                  "amount": "TRACE"
+                },
+                {
+                  "element": {
+                    "name": "Titanium",
+                    "symbol": "Ti"
+                  },
+                  "amount": "TRACE"
+                }
+              ]
+            },
+            {
+              "description": "XRF is similar to paper",
+              "color": {
+                "name": "Blue",
+                "hexCode": "2876B5"
+              },
+              "substrate": false,
+              "visiblecolorhierarchicalpigmentSet": [
+                {
+                  "hierarchicalPigment": {
+                    "name": "Indigo"
+                  },
+                  "confidenceLevel": "A_2"
+                }
+              ],
+              "visiblecolorelementSet": []
+            },
+            {
+              "description": "Dark blue; XRF is similar to paper; area is transparent in IR; indigo confirmed with Raman",
+              "color": {
+                "name": "Blue",
+                "hexCode": "2876B5"
+              },
+              "substrate": false,
+              "visiblecolorhierarchicalpigmentSet": [
+                {
+                  "hierarchicalPigment": {
+                    "name": "Indigo"
+                  },
+                  "confidenceLevel": "A_1"
+                }
+              ],
+              "visiblecolorelementSet": []
+            },
+            {
+              "description": "Transparent in IR",
+              "color": {
+                "name": "Green",
+                "hexCode": "38C172"
+              },
+              "substrate": false,
+              "visiblecolorhierarchicalpigmentSet": [
+                {
+                  "hierarchicalPigment": {
+                    "name": "Orpiment"
+                  },
+                  "confidenceLevel": "A_1"
+                },
+                {
+                  "hierarchicalPigment": {
+                    "name": "Indigo"
+                  },
+                  "confidenceLevel": "A_2"
+                }
+              ],
+              "visiblecolorelementSet": [
+                {
+                  "element": {
+                    "name": "Arsenic",
+                    "symbol": "As"
+                  },
+                  "amount": "MAJOR"
+                },
+                {
+                  "element": {
+                    "name": "Sulfur",
+                    "symbol": "S"
+                  },
+                  "amount": "MAJOR"
+                }
+              ]
+            },
+            {
+              "description": "Transparent in IR, Raman confirmed indigo and orpiment",
+              "color": {
+                "name": "Green",
+                "hexCode": "38C172"
+              },
+              "substrate": false,
+              "visiblecolorhierarchicalpigmentSet": [
+                {
+                  "hierarchicalPigment": {
+                    "name": "Orpiment"
+                  },
+                  "confidenceLevel": "A_1"
+                },
+                {
+                  "hierarchicalPigment": {
+                    "name": "Indigo"
+                  },
+                  "confidenceLevel": "A_1"
+                }
+              ],
+              "visiblecolorelementSet": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
