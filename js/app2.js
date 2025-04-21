@@ -115,18 +115,26 @@ function formatEntry(entry) {
 }
 
 function applyFilters(colorSets) {
-  const applyTo = colorSet => colorSet.filter(entry => {
-    const colorMatch = activeColorFilters.size === 0 || activeColorFilters.has(entry.color?.name);
-    const pigmentNames = (entry.visiblecolorhierarchicalpigmentSet || []).map(p => p.hierarchicalPigment?.name);
-    const pigmentMatch = (
-      activePigmentFilters.size === 0 ||
-      pigmentNames.some(p => activePigmentFilters.has(p))
-    );
-    return colorMatch || pigmentMatch;
-  });
-
-  return colorSets.map(applyTo);
-}
+    const hasColorFilter = activeColorFilters.size > 0;
+    const hasPigmentFilter = activePigmentFilters.size > 0;
+  
+    const applyTo = colorSet => colorSet.filter(entry => {
+      const entryColor = entry.color?.name;
+      const pigmentNames = (entry.visiblecolorhierarchicalpigmentSet || [])
+        .map(p => p.hierarchicalPigment?.name);
+  
+      const colorMatch = activeColorFilters.has(entryColor);
+      const pigmentMatch = pigmentNames.some(pname => activePigmentFilters.has(pname));
+  
+      if (!hasColorFilter && !hasPigmentFilter) {
+        return true; // no filters applied → include everything
+      }
+  
+      return colorMatch || pigmentMatch; // entry must match at least one selected filter
+    });
+  
+    return colorSets.map(applyTo);
+  }
 
 function createCheckboxList(data, container, filterSet, onChange) {
   container.innerHTML = '';
