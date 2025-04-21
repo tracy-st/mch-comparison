@@ -25,7 +25,7 @@ function populateDropdowns() {
 }
 
 function fetchJsonFile(fileName) {
-  return fetch(`../data/${fileName}`)
+  return fetch(`${fileName}`)
     .then(res => res.json())
     .catch(err => {
       console.error(`Error loading file ${fileName}:`, err);
@@ -193,4 +193,7 @@ file2Select.addEventListener('change', () => {
 
 // Initialize
 populateDropdowns();
+console.log('Selected files:', fileA, fileB);
+console.log('Data A:', dataA);
+console.log('Data B:', dataB);
 loadAndRenderComparison(file1Select.value, file2Select.value);
