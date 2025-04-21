@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Manuscript Pigment Comparator</title>
-  <link rel="stylesheet" href="css/style2.css">
+  <title>Pigment Comparison Tool</title>
+  <link rel="stylesheet" href="css/style2.css" />
 </head>
 <body>
   <h1>Pigment Comparison Tool</h1>
@@ -16,17 +16,36 @@
     <select id="file2"></select>
   </div>
 
-  <div id="comparison-container">
-    <div class="file-column" id="fileA">
-      <h2>File A</h2>
-      <div class="colors-list" id="colorsA"></div>
+  <div id="main-layout">
+    <!-- Sidebar Filters -->
+    <div id="sidebar">
+      <button id="toggle-sidebar">☰ Filters</button>
+      <div id="filters" style="display: none;">
+        <h3>Filter by Color</h3>
+        <div id="color-filters"></div>
+        <h3>Filter by Pigment</h3>
+        <div id="pigment-filters"></div>
+      </div>
     </div>
-    <div class="file-column" id="fileB">
-      <h2>File B</h2>
-      <div class="colors-list" id="colorsB"></div>
+
+    <!-- Comparison Columns -->
+    <div id="comparison-container">
+      <!-- File A Column -->
+      <div class="file-column">
+        <div class="metadata" id="metadataA"></div>
+        <h2>File A</h2>
+        <div class="colors-list" id="colorsA"></div>
+      </div>
+
+      <!-- File B Column -->
+      <div class="file-column">
+        <div class="metadata" id="metadataB"></div>
+        <h2>File B</h2>
+        <div class="colors-list" id="colorsB"></div>
+      </div>
     </div>
   </div>
 
-  <script src="app2.js"></script>
+  <script src="js/app2.js"></script>
 </body>
 </html>
