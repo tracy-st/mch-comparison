@@ -1,4 +1,4 @@
-const files = ['kotara.json', 'indira.json']; // Add other filenames here
+const files = ['kotara.json', 'indira.json', 'subdues.json']; // Add other filenames here
 
 // DOM Elements
 const file1Select = document.getElementById('file1');
