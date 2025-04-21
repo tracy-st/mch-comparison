@@ -1,4 +1,4 @@
-const files = ['kotara.json', 'indira.json', 'subdues.json']; // Add other filenames here
+const files = ['balarama.json', 'battle-scene.json', 'cowgirls.json', 'cowherds.json', 'kamsa.json','kotara.json', 'indira.json', 'siege.json', 'subdues.json']; // Add other filenames here
 
 // DOM Elements
 const file1Select = document.getElementById('file1');
@@ -17,24 +17,34 @@ let visiblecolorSetB = [];
 let activeColorFilters = new Set();
 let activePigmentFilters = new Set();
 
-function populateDropdowns() {
-  files.forEach(file => {
-    const option1 = document.createElement('option');
-    option1.value = file;
-    option1.textContent = file;
-    file1Select.appendChild(option1);
-
-    const option2 = document.createElement('option');
-    option2.value = file;
-    option2.textContent = file;
-    file2Select.appendChild(option2);
-  });
-
-  file1Select.selectedIndex = 0;
-  file2Select.selectedIndex = 1;
-
-  loadAndRenderComparison(file1Select.value, file2Select.value);
-}
+async function populateDropdowns() {
+    // Clear first
+    file1Select.innerHTML = '';
+    file2Select.innerHTML = '';
+  
+    for (const file of files) {
+      const data = await fetchJsonFile(file);
+      const title = data?.data?.work?.title || file;
+      const accno = data?.data?.work?.accessionNumber || '';
+  
+      const option1 = document.createElement('option');
+      option1.value = file;
+      option1.textContent = title + " (" + accno + ")";
+      file1Select.appendChild(option1);
+  
+      const option2 = document.createElement('option');
+      option2.value = file;
+      option2.textContent = title + " (" + accno + ")";
+      file2Select.appendChild(option2);
+    }
+  
+    // Set defaults
+    file1Select.selectedIndex = 0;
+    file2Select.selectedIndex = 1;
+  
+    // Run comparison
+    loadAndRenderComparison(file1Select.value, file2Select.value);
+  }
 
 function fetchJsonFile(fileName) {
   return fetch(`data/${fileName}`).then(res => res.json()).catch(err => {
