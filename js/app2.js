@@ -25,7 +25,7 @@ function populateDropdowns() {
 }
 
 function fetchJsonFile(fileName) {
-  return fetch(`data/${fileName}`)
+  return fetch(`../data/${fileName}`)
     .then(res => res.json())
     .catch(err => {
       console.error(`Error loading file ${fileName}:`, err);
