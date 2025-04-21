@@ -1,4 +1,4 @@
-const files = ['balarama.json', 'battle-scene.json', 'cowgirls.json', 'cowherds.json', 'kamsa.json','kotara.json', 'indira.json', 'siege.json', 'subdues.json']; // Add other filenames here
+const files = ['balarama.json', 'battle-scene.json', 'cowgirls.json', 'cowherds.json', 'forest.json','kamsa.json','kotara.json', 'indira.json', 'siege.json', 'subdues.json']; // Add other filenames here
 
 // DOM Elements
 const file1Select = document.getElementById('file1');

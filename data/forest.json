@@ -1,0 +1,175 @@
+{
+  "data": {
+    "work": {
+      "title": "Krishna, Balarama and The Cowherds Play in the Forest",
+      "slug": "krishna-balarama-and-the-cowherds-play-in-the-forest",
+      "id": "V29ya1R5cGU6Mg==",
+      "uuid": "f004e26d-8085-4149-b9dc-72d7604aad71",
+      "image": {
+        "id": "168",
+        "imageUrl": "https://mps.lib.harvard.edu/assets/images/AT:mcih18f223aa44f348fabcea8d1578c17a4c/full/max/0/default.jpg"
+      },
+      "accessionNumber": "2007.86",
+      "width": "24.3 cm",
+      "height": "18.3 cm",
+      "artist": {
+        "name": "Artist once known",
+        "description": ""
+      },
+      "link": "https://www.cincinnatiartmuseum.org/art/explore-the-collection?id=20578384",
+      "classification": {
+        "name": "Manuscript folio"
+      },
+      "mediums": [
+        {
+          "name": "Paper"
+        },
+        {
+          "name": "Watercolor"
+        }
+      ],
+      "repository": {
+        "name": "Cincinnati Art Museum",
+        "description": ""
+      },
+      "analysisSet": [
+        {
+          "uuid": "327e12ef-bbbf-4f26-9af8-61daaa8e1fa8",
+          "visiblecolorSet": [
+            {
+              "description": "",
+              "color": {
+                "name": "Red",
+                "hexCode": "D64141"
+              },
+              "substrate": false,
+              "visiblecolorhierarchicalpigmentSet": [
+                {
+                  "hierarchicalPigment": {
+                    "name": "Red lead"
+                  },
+                  "confidenceLevel": "A_1"
+                }
+              ],
+              "visiblecolorelementSet": [
+                {
+                  "element": {
+                    "name": "Lead",
+                    "symbol": "Pb"
+                  },
+                  "amount": "MAJOR"
+                }
+              ]
+            },
+            {
+              "description": "",
+              "color": {
+                "name": "Red",
+                "hexCode": "D64141"
+              },
+              "substrate": false,
+              "visiblecolorhierarchicalpigmentSet": [
+                {
+                  "hierarchicalPigment": {
+                    "name": "Vermilion"
+                  },
+                  "confidenceLevel": "A_1"
+                }
+              ],
+              "visiblecolorelementSet": [
+                {
+                  "element": {
+                    "name": "Mercury",
+                    "symbol": "Hg"
+                  },
+                  "amount": "MAJOR"
+                },
+                {
+                  "element": {
+                    "name": "Sulfur",
+                    "symbol": "S"
+                  },
+                  "amount": "MINOR"
+                }
+              ]
+            },
+            {
+              "description": "",
+              "color": {
+                "name": "Yellow",
+                "hexCode": "FFD93E"
+              },
+              "substrate": false,
+              "visiblecolorhierarchicalpigmentSet": [
+                {
+                  "hierarchicalPigment": {
+                    "name": "Orpiment"
+                  },
+                  "confidenceLevel": "A_1"
+                }
+              ],
+              "visiblecolorelementSet": [
+                {
+                  "element": {
+                    "name": "Arsenic",
+                    "symbol": "As"
+                  },
+                  "amount": "MAJOR"
+                },
+                {
+                  "element": {
+                    "name": "Sulfur",
+                    "symbol": "S"
+                  },
+                  "amount": "MINOR"
+                }
+              ]
+            },
+            {
+              "description": "",
+              "color": {
+                "name": "Blue",
+                "hexCode": "2876B5"
+              },
+              "substrate": false,
+              "visiblecolorhierarchicalpigmentSet": [
+                {
+                  "hierarchicalPigment": {
+                    "name": "Indigo"
+                  },
+                  "confidenceLevel": "A_2"
+                }
+              ],
+              "visiblecolorelementSet": []
+            },
+            {
+              "description": "",
+              "color": {
+                "name": "White",
+                "hexCode": "FFFFFF"
+              },
+              "substrate": false,
+              "visiblecolorhierarchicalpigmentSet": [
+                {
+                  "hierarchicalPigment": {
+                    "name": "Lead white"
+                  },
+                  "confidenceLevel": "A_1"
+                }
+              ],
+              "visiblecolorelementSet": [
+                {
+                  "element": {
+                    "name": "Lead",
+                    "symbol": "Pb"
+                  },
+                  "amount": "MAJOR"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
