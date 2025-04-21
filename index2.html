@@ -9,11 +9,14 @@
   <h1>Pigment Comparison Tool: Dispersed Bhagavata Purana</h1>
 
   <div id="file-selectors">
-    <label for="file1">Select File A:</label>
-    <select id="file1"></select>
-
-    <label for="file2">Select File B:</label>
-    <select id="file2"></select>
+    <div class="file-dropdown">
+        <label for="file1">Select File A:</label>
+        <select id="file1"></select>
+    </div>
+    <div class="file-dropdown">
+        <label for="file2">Select File B:</label>
+        <select id="file2"></select>
+    </div>
   </div>
 
   <div id="main-layout">
@@ -33,14 +36,12 @@
       <!-- File A Column -->
       <div class="file-column">
         <div class="metadata" id="metadataA"></div>
-        <h2>File A</h2>
         <div class="colors-list" id="colorsA"></div>
       </div>
 
       <!-- File B Column -->
       <div class="file-column">
         <div class="metadata" id="metadataB"></div>
-        <h2>File B</h2>
         <div class="colors-list" id="colorsB"></div>
       </div>
     </div>

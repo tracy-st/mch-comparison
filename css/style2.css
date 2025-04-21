@@ -5,6 +5,12 @@ body {
   
   #file-selectors {
     margin-bottom: 20px;
+    margin-left: 225px;
+    display:flex
+  }
+
+  .file-dropdown {
+    margin-right:20px
   }
   
   #main-layout {
