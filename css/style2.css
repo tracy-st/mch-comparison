@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+#file-selectors {
+  margin-bottom: 20px;
+}
+
+#comparison-container {
+  display: flex;
+  gap: 30px;
+}
+
+.file-column {
+  flex: 1;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+.color-entry {
+  border-bottom: 1px solid #ddd;
+  padding: 10px 0;
+}
+
+.swatch {
+  width: 40px;
+  height: 20px;
+  border: 1px solid #aaa;
+  margin-bottom: 5px;
+}
+
+.color-name {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.placeholder {
+  font-style: italic;
+  color: #999;
+}
