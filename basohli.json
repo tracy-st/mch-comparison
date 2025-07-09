@@ -2,6 +2,7 @@
   "@context": "http://iiif.io/api/presentation/3/context.json",
   "id": "https://tracy-st.github.io/mch-comparison/basohli.json",
   "type": "Collection",
+  "behavior": [ "paged", "multi-part" ],
   "label": {
     "en": ["Basohli Rasamanjari"]
   },
