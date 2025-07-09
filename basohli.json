@@ -1,0 +1,114 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://example.org/iiif/collection/mappingcolor",
+  "type": "Collection",
+  "label": {
+    "en": ["Mapping Color Collection"]
+  },
+  "items": [
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/218/manifest.json",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/217/manifest.json",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/216/manifest.json",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/215/manifest.json",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/214/manifest.json",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/213/manifest.json",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/212/manifest.json",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/211/manifest.json",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/210/manifest.json",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/209/manifest.json",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/208/manifest.json",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/207/manifest.json",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/206/manifest.json",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/205/manifest.json",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/204/manifest.json",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/194/manifest.json",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/193/manifest.json",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/192/manifest.json",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/191/manifest.json",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/190/manifest.json",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/189/manifest.json",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/188/manifest.json",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/187/manifest.json",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/186/manifest.json",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/185/manifest.json",
+      "type": "Manifest"
+    },
+    {
+      "id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/184/manifest.json",
+      "type": "Manifest"
+    }
+  ]
+}
