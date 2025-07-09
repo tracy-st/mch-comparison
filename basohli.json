@@ -1,9 +1,9 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://example.org/iiif/collection/mappingcolor",
+  "id": "https://tracy-st.github.io/mch-comparison/basohli.json",
   "type": "Collection",
   "label": {
-    "en": ["Mapping Color Collection"]
+    "en": ["Basohli Rasamanjari"]
   },
   "items": [
     {
