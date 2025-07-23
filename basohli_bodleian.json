@@ -1,0 +1,39 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://7546e177-8a82-4ed3-bb12-80d80f9f1cf7",
+	"@type": "sc:Manifest",
+	"label": "Basohli Rasamanjari",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://dab12ca3-7058-4ce7-8680-071b0053311c",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://df663290-db6a-435d-893c-de40cf3aa579",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 0,
+					"width": 0,
+					"images": [],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
