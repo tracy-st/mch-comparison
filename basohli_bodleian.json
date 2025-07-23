@@ -24,13 +24,308 @@
 			],
 			"canvases": [
 				{
-					"@id": "http://df663290-db6a-435d-893c-de40cf3aa579",
+					"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/218/canvas.json",
+					"label": "The Approach of Krishna. Page from a Rasamanjari",
 					"@type": "sc:Canvas",
-					"label": "Empty canvas",
-					"height": 0,
-					"width": 0,
-					"images": [],
-					"related": ""
+					"width": 3400,
+					"height": 2322,
+					"images": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/223/anno.json",
+							"motivation": "sc:painting",
+							"@type": "oa:Annotation",
+							"resource": {
+								"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/5b76434578c5b778ce2b9120260e01a1.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 3400,
+								"height": 2322,
+								"service": {
+									"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/5b76434578c5b778ce2b9120260e01a1.jpg",
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level2.json"
+								}
+							},
+							"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/218/canvas.json"
+						}
+					],
+					"metadata": [
+						{
+							"label": "Record in Omeka",
+							"value": "<a href=\"/items/show/218\">View page</a>"
+						},
+						{
+							"label": "Title",
+							"value": "The Approach of Krishna. Page from a Rasamanjari"
+						},
+						{
+							"label": "Link",
+							"value": "https://www.clevelandart.org/art/1965.249"
+						},
+						{
+							"label": "Repository",
+							"value": "The Cleveland Museum of Art"
+						},
+						{
+							"label": "Accession Number",
+							"value": "1965.249"
+						},
+						{
+							"label": "Provenance",
+							"value": "Stella Kramrisch, Edward L. Whittemore Fund"
+						},
+						{
+							"label": "Parent Work",
+							"value": "Basohli Rasamanjari"
+						},
+						{
+							"label": "Sequential order of folio",
+							"value": "135"
+						},
+						{
+							"label": "Date",
+							"value": "1660-1670"
+						},
+						{
+							"label": "Location",
+							"value": "Basholi, India"
+						},
+						{
+							"label": "Medium",
+							"value": "Watercolor, Gold, Beetle Wings; Paper"
+						},
+						{
+							"label": "Size (H x W cm)",
+							"value": "23.4 x 32.4cm"
+						},
+						{
+							"label": "Text",
+							"value": "On verso in Sanskrit:  \"Friend give up your waywardness of mind. O dear friend do not torture me with your shyness. For a moment, the lord Kama forgive me, be steadfast in your gaze. May the handsome Krishna wearing peacock feathers on his head, putting lotus in his ears and holding the flute on his hand reveal himself to me now.\""
+						},
+						{
+							"label": "Paratext",
+							"value": "On recto in Takri : \"Seeing the lover face to face.\""
+						},
+						{
+							"label": "Publications",
+							"value": "Archer, W. G. Indian Paintings from the Punjab Hills; a Survey and History of Pahari Miniature Painting. London, New York: Sotheby Parke Bernet, 1973.\r\n\r\nDwivedi, Vinod P. “A Rasamanjari Painting from Basohli.” The Bulletin of the Cleveland Museum of Art, vol. 56, no. 7, 1969, pp. 262–268.\r\n\r\nGoswamy, B., Fischer, E., & Museum Rietberg. (1992). Pahari masters : Court painters of northern India (Artibus Asiae. Supplementum ; 38). Zürich, Switzerland: Artibus Asiae  : Museum Reitberg. \r\n\r\nKarl Khandalavala and Moti Chandra, \"The Rasamanjari in Basohli Painting,\" Lalit Kala, nos. 3-4 (New Delhi, 1956/57), pp. 26-38.\r\n\r\nThe Cleveland Museum of Art. Handbook of the Cleveland Museum of Art/1978. Cleveland, OH: The Cleveland Museum of Art, 1978."
+						},
+						{
+							"label": "Exhibition History",
+							"value": "Year in Review: 1965. The Cleveland Museum of Art (organizer) (October 27-November 14, 1965)."
+						}
+					],
+					"otherContent": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/218/annolist.json",
+							"@type": "sc:AnnotationList"
+						}
+					],
+					"related": {
+						"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/218/manifest.json",
+						"label": "Basohli Rasamanjari ",
+						"format": ""
+					}
+				},
+				{
+					"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/217/canvas.json",
+					"label": "Radha Stupefied",
+					"@type": "sc:Canvas",
+					"width": 2200,
+					"height": 1555,
+					"images": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/222/anno.json",
+							"motivation": "sc:painting",
+							"@type": "oa:Annotation",
+							"resource": {
+								"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/d9f01c917a00c4321330a8c06bb0f740.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 2200,
+								"height": 1555,
+								"service": {
+									"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/d9f01c917a00c4321330a8c06bb0f740.jpg",
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level2.json"
+								}
+							},
+							"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/217/canvas.json"
+						}
+					],
+					"metadata": [
+						{
+							"label": "Record in Omeka",
+							"value": "<a href=\"/items/show/217\">View page</a>"
+						},
+						{
+							"label": "Title",
+							"value": "Radha Stupefied"
+						},
+						{
+							"label": "Link",
+							"value": "http://collections.vam.ac.uk/item/O41838/radha-painting-unknown/"
+						},
+						{
+							"label": "Repository",
+							"value": "Victoria and Albert Museum"
+						},
+						{
+							"label": "Accession Number",
+							"value": "IS.122-1951"
+						},
+						{
+							"label": "Provenance",
+							"value": "Lady Rothenstein and Art Fund, Collection of William Rothenstein."
+						},
+						{
+							"label": "Parent Work",
+							"value": "Basohli Rasamanjari"
+						},
+						{
+							"label": "Sequential order of folio",
+							"value": "131"
+						},
+						{
+							"label": "Date",
+							"value": "1660-1670"
+						},
+						{
+							"label": "Location",
+							"value": "Basohli, India"
+						},
+						{
+							"label": "Medium",
+							"value": "Watercolor, Gold, Beetle Wings; Paper"
+						},
+						{
+							"label": "Size (H x W cm)",
+							"value": "23.5 x 33.0 cm"
+						},
+						{
+							"label": "Text",
+							"value": "On verso in Sanskrit : \"The bracelet on her hand is making no sound; the garment on her bosom does not stir; the gaze of her pupils is fixed; and her ear-rings dance no more. There is no difference between her and a painting on canvas, unless the ripple of a thrill is awakened in her on her hearing your name.\""
+						},
+						{
+							"label": "Paratext",
+							"value": "On recto in Takri: \"She who lies dazed or stupefied.\""
+						},
+						{
+							"label": "Publications",
+							"value": "Archer, W. G. Indian Paintings from the Punjab Hills; a Survey and History of Pahari Miniature Painting. London, New York: Sotheby Parke Bernet, 1973. Hayward Gallery, and Arts Council of Great Britain. In the Image of Man : The Indian Perception of the Universe through 2000 Years of Painting and Sculpture : [exhibition] Hayward Gallery, London, 25 March-13 June 1982. London: Weidenfeld and Nicolson, 1982.\r\n\r\nKhanna, Balraj. Krishna: The Divine Lover, South Bank Centre, London 1997."
+						}
+					],
+					"otherContent": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/217/annolist.json",
+							"@type": "sc:AnnotationList"
+						}
+					],
+					"related": {
+						"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/217/manifest.json",
+						"label": "Basohli Rasamanjari ",
+						"format": ""
+					}
+				},
+				{
+					"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/216/canvas.json",
+					"label": " Krisna Confiding in Companion",
+					"@type": "sc:Canvas",
+					"width": 2200,
+					"height": 1668,
+					"images": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/221/anno.json",
+							"motivation": "sc:painting",
+							"@type": "oa:Annotation",
+							"resource": {
+								"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/49da20ff74355c2c00f9f60e0d72e890.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 2200,
+								"height": 1668,
+								"service": {
+									"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/49da20ff74355c2c00f9f60e0d72e890.jpg",
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level2.json"
+								}
+							},
+							"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/216/canvas.json"
+						}
+					],
+					"metadata": [
+						{
+							"label": "Record in Omeka",
+							"value": "<a href=\"/items/show/216\">View page</a>"
+						},
+						{
+							"label": "Title",
+							"value": "Krisna Confiding in Companion"
+						},
+						{
+							"label": "Link",
+							"value": "https://collections.vam.ac.uk/item/O41824/krishna-painting-unknown/"
+						},
+						{
+							"label": "Repository",
+							"value": "Victoria and Albert Museum"
+						},
+						{
+							"label": "Accession Number",
+							"value": "IS 53-1953"
+						},
+						{
+							"label": "Provenance",
+							"value": "Michael Rothenstein Collection"
+						},
+						{
+							"label": "Parent Work",
+							"value": "Basohli Rasamanjari"
+						},
+						{
+							"label": "Sequential order of folio",
+							"value": "122"
+						},
+						{
+							"label": "Date",
+							"value": "1660-1670"
+						},
+						{
+							"label": "Location",
+							"value": "Basohli, India"
+						},
+						{
+							"label": "Medium",
+							"value": "Watercolor, Gold, Beetle Wings; Paper"
+						},
+						{
+							"label": "Size (H x W cm)",
+							"value": "22.9 x 32.4 cm"
+						},
+						{
+							"label": "Text",
+							"value": "On verso in Sanskrit: \"The beauty of that slender girl is like a pool in which my heart and eyes have dropped. The heart, being heavy, has been completely submerged; the eyes being light, are floating all around\""
+						},
+						{
+							"label": "Paratext",
+							"value": "On recto in Takri: \"The need for love\""
+						},
+						{
+							"label": "Publications",
+							"value": "Archer, W. G. Indian Paintings from the Punjab Hills; a Survey and History of Pahari Miniature Painting. London, New York: Sotheby Parke Bernet, 1973.\r\nKhanna, Balraj. Krishna: The Divine Lover, South Bank Centre, London 1997."
+						}
+					],
+					"otherContent": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/216/annolist.json",
+							"@type": "sc:AnnotationList"
+						}
+					],
+					"related": {
+						"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/216/manifest.json",
+						"label": "Basohli Rasamanjari ",
+						"format": ""
+					}
 				}
 			]
 		}
