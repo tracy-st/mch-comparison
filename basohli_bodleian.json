@@ -326,6 +326,1974 @@
 						"label": "Basohli Rasamanjari ",
 						"format": ""
 					}
+				},
+				{
+					"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/215/canvas.json",
+					"label": "Krisna Arrives while Radha is Dressing",
+					"@type": "sc:Canvas",
+					"width": 2200,
+					"height": 1681,
+					"images": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/220/anno.json",
+							"motivation": "sc:painting",
+							"@type": "oa:Annotation",
+							"resource": {
+								"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/cec26006faa96fc54394f4000570b9c4.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 2200,
+								"height": 1681,
+								"service": {
+									"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/cec26006faa96fc54394f4000570b9c4.jpg",
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level2.json"
+								}
+							},
+							"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/215/canvas.json"
+						}
+					],
+					"metadata": [
+						{
+							"label": "Record in Omeka",
+							"value": "<a href=\"/items/show/215\">View page</a>"
+						},
+						{
+							"label": "Title",
+							"value": "Krisna Arrives while Radha is Dressing"
+						},
+						{
+							"label": "Link",
+							"value": "http://collections.vam.ac.uk/item/O41817/painting-unknown/"
+						},
+						{
+							"label": "Repository",
+							"value": "Victoria and Albert Museum"
+						},
+						{
+							"label": "Accession Number",
+							"value": "IS. 52-1953"
+						},
+						{
+							"label": "Provenance",
+							"value": "Michael Rothenstein Collection"
+						},
+						{
+							"label": "Parent Work",
+							"value": "Basohli Rasamanjari"
+						},
+						{
+							"label": "Sequential order of folio",
+							"value": "121"
+						},
+						{
+							"label": "Date",
+							"value": "1660-1670"
+						},
+						{
+							"label": "Location",
+							"value": "Basholi, India"
+						},
+						{
+							"label": "Medium",
+							"value": "Watercolor, Gold, Beetle Wings; Paper"
+						},
+						{
+							"label": "Size (H x W cm)",
+							"value": "23.2 x 32.2 cm"
+						},
+						{
+							"label": "Text",
+							"value": "On verso in Sanskrit: \"The lotus-eyed maiden is desirous of watching your foot-path. With the appearance of new clouds, her heart goes to her throat as if to choke it. Wishing to fly away to see your moon-like face, her heart grows wings in the form of lotus-leaves. What else shall I say?\""
+						},
+						{
+							"label": "Paratext",
+							"value": "On recto in Takri : 'Annoyance because of her toilet.'"
+						},
+						{
+							"label": "Publications",
+							"value": "Archer, W. G. Indian Paintings from the Punjab Hills; a Survey and History of Pahari Miniature Painting. London, New York: Sotheby Parke Bernet, 1973.\r\n\r\nGoswamy, B. N., Eberhard Fischer, and Museum Rietberg. Pahari Masters : Court Painters of Northern India. Artibus Asiae. Supplementum ; 38. Zürich, Switzerland: Artibus Asiae Publishers : Museum Reitberg, 1992."
+						}
+					],
+					"otherContent": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/215/annolist.json",
+							"@type": "sc:AnnotationList"
+						}
+					],
+					"related": {
+						"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/215/manifest.json",
+						"label": "Basohli Rasamanjari ",
+						"format": ""
+					}
+				},
+				{
+					"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/214/canvas.json",
+					"label": "Krisna and Jester",
+					"@type": "sc:Canvas",
+					"width": 2200,
+					"height": 1650,
+					"images": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/219/anno.json",
+							"motivation": "sc:painting",
+							"@type": "oa:Annotation",
+							"resource": {
+								"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/59e93dcba5d82b91f23d28e76c86bb46.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 2200,
+								"height": 1650,
+								"service": {
+									"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/59e93dcba5d82b91f23d28e76c86bb46.jpg",
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level2.json"
+								}
+							},
+							"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/214/canvas.json"
+						}
+					],
+					"metadata": [
+						{
+							"label": "Record in Omeka",
+							"value": "<a href=\"/items/show/214\">View page</a>"
+						},
+						{
+							"label": "Title",
+							"value": "Krisna and Jester"
+						},
+						{
+							"label": "Link",
+							"value": "https://collections.vam.ac.uk/item/O41807/krishna-painting-unknown/"
+						},
+						{
+							"label": "Repository",
+							"value": "Victoria and Albert Museum"
+						},
+						{
+							"label": "Accession Number",
+							"value": "IS. 121-1951"
+						},
+						{
+							"label": "Provenance",
+							"value": "Lady Rothenstein and Art Fund, Collection of Michael Rothenstein"
+						},
+						{
+							"label": "Parent Work",
+							"value": "Basohli Rasamanjari"
+						},
+						{
+							"label": "Sequential order of folio",
+							"value": "117"
+						},
+						{
+							"label": "Date",
+							"value": "1660-1670"
+						},
+						{
+							"label": "Location",
+							"value": "Basohli, India"
+						},
+						{
+							"label": "Medium",
+							"value": "Watercolor, Gold, Beetle Wings; Paper"
+						},
+						{
+							"label": "Size (H x W cm)",
+							"value": "23.5 x 33 cm"
+						},
+						{
+							"label": "Text",
+							"value": "On verso in Sanskrit:  \"Having coaxed my lotus-faced girl to come near the couch, I eagerly prepared to loosen her bodice. Meanwhile, the clown, my friend, repeatedly crowed like a young rooster as if heralding the dawn.\""
+						},
+						{
+							"label": "Paratext",
+							"value": "On recto in Takri: 'the jester friend'"
+						},
+						{
+							"label": "Publications",
+							"value": "Archer, W. G. Indian Paintings from the Punjab Hills; a Survey and History of Pahari Miniature Painting. London, New York: Sotheby Parke Bernet, 1973."
+						},
+						{
+							"label": "Exhibition History",
+							"value": "Rawson, Philip S., Hayward Gallery and Arts Council of Great Britain. Tantra. Hayward Gallery, London 30 September-7 November 1971. London, Arts Council of Great Britain, [1971]. p. 34, no.127."
+						}
+					],
+					"otherContent": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/214/annolist.json",
+							"@type": "sc:AnnotationList"
+						}
+					],
+					"related": {
+						"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/214/manifest.json",
+						"label": "Basohli Rasamanjari ",
+						"format": ""
+					}
+				},
+				{
+					"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/213/canvas.json",
+					"label": "Lonely Krishna",
+					"@type": "sc:Canvas",
+					"width": 2200,
+					"height": 1650,
+					"images": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/218/anno.json",
+							"motivation": "sc:painting",
+							"@type": "oa:Annotation",
+							"resource": {
+								"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/e8d7928c18f1367d2b10fb77c34cccf2.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 2200,
+								"height": 1650,
+								"service": {
+									"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/e8d7928c18f1367d2b10fb77c34cccf2.jpg",
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level2.json"
+								}
+							},
+							"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/213/canvas.json"
+						}
+					],
+					"metadata": [
+						{
+							"label": "Record in Omeka",
+							"value": "<a href=\"/items/show/213\">View page</a>"
+						},
+						{
+							"label": "Title",
+							"value": "Lonely Krishna"
+						},
+						{
+							"label": "Link",
+							"value": "https://collections.vam.ac.uk/item/O41804/krishna-painting-unknown/"
+						},
+						{
+							"label": "Repository",
+							"value": "Victoria and Albert Museum"
+						},
+						{
+							"label": "Accession Number",
+							"value": "IS.120-1951"
+						},
+						{
+							"label": "Provenance",
+							"value": "Lady Rothenstein and Art Fund, Collection of William Rothenstein."
+						},
+						{
+							"label": "Parent Work",
+							"value": "Basohli Rasamanjari"
+						},
+						{
+							"label": "Sequential order of folio",
+							"value": "110"
+						},
+						{
+							"label": "Date",
+							"value": "1660-1670"
+						},
+						{
+							"label": "Location",
+							"value": "Basholi, India"
+						},
+						{
+							"label": "Medium",
+							"value": "Watercolor, Gold, Beetle Wings; Paper"
+						},
+						{
+							"label": "Size (H x W cm)",
+							"value": "23.1 x 32.0cm"
+						},
+						{
+							"label": "Text",
+							"value": "On verso in Sanskrit : \"My sweet-heart, whose thighs are like plantains, eyes like lotus, locks of hair like saivala, face like the moon, speech like nectar, waist like a lotus stalk, navel like a pit, fold in the belly like a stream and hands like leaves - swells in my heart. Alas! there is still no abatement of the fever in my heart.\""
+						},
+						{
+							"label": "Paratext",
+							"value": "On recto in Takri : \"He whose pati (literally husband, but here by implication, mistress) is away.\""
+						},
+						{
+							"label": "Publications",
+							"value": "Archer, W. G. Indian Paintings from the Punjab Hills; a Survey and History of Pahari Miniature Painting. London, New York: Sotheby Parke Bernet, 1973."
+						}
+					],
+					"otherContent": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/213/annolist.json",
+							"@type": "sc:AnnotationList"
+						}
+					],
+					"related": {
+						"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/213/manifest.json",
+						"label": "Basohli Rasamanjari ",
+						"format": ""
+					}
+				},
+				{
+					"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/212/canvas.json",
+					"label": "The Depraved Hero",
+					"@type": "sc:Canvas",
+					"width": 1600,
+					"height": 1128,
+					"images": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/217/anno.json",
+							"motivation": "sc:painting",
+							"@type": "oa:Annotation",
+							"resource": {
+								"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/9ed87ca8d5377b34e4cf2854adcb6ccf.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 1600,
+								"height": 1128,
+								"service": {
+									"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/9ed87ca8d5377b34e4cf2854adcb6ccf.jpg",
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level2.json"
+								}
+							},
+							"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/212/canvas.json"
+						}
+					],
+					"metadata": [
+						{
+							"label": "Record in Omeka",
+							"value": "<a href=\"/items/show/212\">View page</a>"
+						},
+						{
+							"label": "Title",
+							"value": "The Depraved Hero"
+						},
+						{
+							"label": "Link",
+							"value": "https://collections.mfa.org/objects/149187"
+						},
+						{
+							"label": "Repository",
+							"value": "Museum of Fine Arts Boston"
+						},
+						{
+							"label": "Accession Number",
+							"value": "17.2782"
+						},
+						{
+							"label": "Provenance",
+							"value": "Ross-Coomaraswamy Collection"
+						},
+						{
+							"label": "Parent Work",
+							"value": "Basohli Rasamanjari"
+						},
+						{
+							"label": "Sequential order of folio",
+							"value": "106"
+						},
+						{
+							"label": "Date",
+							"value": "1660-1670"
+						},
+						{
+							"label": "Location",
+							"value": "Basohli Rasamanjari"
+						},
+						{
+							"label": "Medium",
+							"value": "Watercolor, Gold, Beetle Wings; Paper"
+						},
+						{
+							"label": "Size (H x W cm)",
+							"value": "22.6 x 32.3cm"
+						},
+						{
+							"label": "Text",
+							"value": "On Verso in Sanskrit: His swollen heart knows neither shame nor pity nor any fear of anger; How can such a tender bakula bud as I have been cast into his hands today?\""
+						}
+					],
+					"otherContent": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/212/annolist.json",
+							"@type": "sc:AnnotationList"
+						}
+					],
+					"related": {
+						"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/212/manifest.json",
+						"label": "Basohli Rasamanjari ",
+						"format": ""
+					}
+				},
+				{
+					"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/211/canvas.json",
+					"label": "Krishna Loosens His Beloved's Belt",
+					"@type": "sc:Canvas",
+					"width": 1600,
+					"height": 1123,
+					"images": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/215/anno.json",
+							"motivation": "sc:painting",
+							"@type": "oa:Annotation",
+							"resource": {
+								"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/92992668a3d735af5b132400b904aceb.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 1600,
+								"height": 1123,
+								"service": {
+									"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/92992668a3d735af5b132400b904aceb.jpg",
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level2.json"
+								}
+							},
+							"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/211/canvas.json"
+						}
+					],
+					"metadata": [
+						{
+							"label": "Record in Omeka",
+							"value": "<a href=\"/items/show/211\">View page</a>"
+						},
+						{
+							"label": "Title",
+							"value": "Krishna Loosens His Beloved's Belt"
+						},
+						{
+							"label": "Link",
+							"value": "https://collections.mfa.org/objects/149185"
+						},
+						{
+							"label": "Repository",
+							"value": "Museum of Fine Arts Boston"
+						},
+						{
+							"label": "Accession Number",
+							"value": "17.2780"
+						},
+						{
+							"label": "Provenance",
+							"value": "Ross-Coomaraswamy Collection"
+						},
+						{
+							"label": "Parent Work",
+							"value": "Basohli Rasamanjari"
+						},
+						{
+							"label": "Sequential order of folio",
+							"value": "101"
+						},
+						{
+							"label": "Date",
+							"value": "1660-1670"
+						},
+						{
+							"label": "Location",
+							"value": "Basohli, Rasamanjari"
+						},
+						{
+							"label": "Medium",
+							"value": "Watercolor, Gold, Beetle Wings; Paper"
+						},
+						{
+							"label": "Size (H x W cm)",
+							"value": "23.3 x 33cm"
+						},
+						{
+							"label": "Text",
+							"value": "On verso written in Sanskrit. \"The cunning lover won the confidence of his doe-eyed nayika by decorating her braid with garlands, painting floral designs on her forehead with sandal-paste, putting armlets on her upper arms, and placing a necklace of pearls on her breast. Winning the confidence of the fawn-eyed lady he slyly loosens the knot of her skirt, with his soft hand, on the pretext of touching her belt.\""
+						}
+					],
+					"otherContent": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/211/annolist.json",
+							"@type": "sc:AnnotationList"
+						}
+					],
+					"related": {
+						"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/211/manifest.json",
+						"label": "Basohli Rasamanjari ",
+						"format": ""
+					}
+				},
+				{
+					"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/210/canvas.json",
+					"label": "Two Women in a Chamber",
+					"@type": "sc:Canvas",
+					"width": 800,
+					"height": 540,
+					"images": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/214/anno.json",
+							"motivation": "sc:painting",
+							"@type": "oa:Annotation",
+							"resource": {
+								"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/dd401c2780992f398cb064f7ffd064ea.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 800,
+								"height": 540,
+								"service": {
+									"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/dd401c2780992f398cb064f7ffd064ea.jpg",
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level2.json"
+								}
+							},
+							"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/210/canvas.json"
+						}
+					],
+					"metadata": [
+						{
+							"label": "Record in Omeka",
+							"value": "<a href=\"/items/show/210\">View page</a>"
+						},
+						{
+							"label": "Title",
+							"value": "Two Women in a Chamber"
+						},
+						{
+							"label": "Repository",
+							"value": "Dogra Art Museum"
+						},
+						{
+							"label": "Parent Work",
+							"value": "Basohli Rasamanjari"
+						},
+						{
+							"label": "Date",
+							"value": "41"
+						},
+						{
+							"label": "Location",
+							"value": "Basohli, India"
+						},
+						{
+							"label": "Publications",
+							"value": "Randhawa, M. S., S. D. Bhambri, and Bhānudatta Miśra. Basohli Paintings of the Rasamanjari. New Delhi: Abhinav Publications, 1981."
+						}
+					],
+					"otherContent": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/210/annolist.json",
+							"@type": "sc:AnnotationList"
+						}
+					],
+					"related": {
+						"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/210/manifest.json",
+						"label": "Basohli Rasamanjari ",
+						"format": ""
+					}
+				},
+				{
+					"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/209/canvas.json",
+					"label": "Madhya Proshita Bhartrika",
+					"@type": "sc:Canvas",
+					"width": 540,
+					"height": 404,
+					"images": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/213/anno.json",
+							"motivation": "sc:painting",
+							"@type": "oa:Annotation",
+							"resource": {
+								"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/1013da5f595209e22e91190e5f7d9011.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 540,
+								"height": 404,
+								"service": {
+									"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/1013da5f595209e22e91190e5f7d9011.jpg",
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level2.json"
+								}
+							},
+							"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/209/canvas.json"
+						}
+					],
+					"metadata": [
+						{
+							"label": "Record in Omeka",
+							"value": "<a href=\"/items/show/209\">View page</a>"
+						},
+						{
+							"label": "Title",
+							"value": "Madhya Proshita Bhartrika"
+						},
+						{
+							"label": "Repository",
+							"value": "Unknown."
+						},
+						{
+							"label": "Parent Work",
+							"value": "Basohli Rasamanjari"
+						},
+						{
+							"label": "Sequential order of folio",
+							"value": "40"
+						},
+						{
+							"label": "Date",
+							"value": "1660-1670"
+						},
+						{
+							"label": "Publications",
+							"value": "Randhawa, M. S., S. D. Bhambri, and Bhānudatta Miśra. Basohli Paintings of the Rasamanjari. New Delhi: Abhinav Publications, 1981."
+						}
+					],
+					"otherContent": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/209/annolist.json",
+							"@type": "sc:AnnotationList"
+						}
+					],
+					"related": {
+						"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/209/manifest.json",
+						"label": "Basohli Rasamanjari ",
+						"format": ""
+					}
+				},
+				{
+					"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/208/canvas.json",
+					"label": null,
+					"@type": "sc:Canvas",
+					"width": 2200,
+					"height": 1689,
+					"images": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/212/anno.json",
+							"motivation": "sc:painting",
+							"@type": "oa:Annotation",
+							"resource": {
+								"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/4172154699f9c0b19d91e7831829a4ac.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 2200,
+								"height": 1689,
+								"service": {
+									"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/4172154699f9c0b19d91e7831829a4ac.jpg",
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level2.json"
+								}
+							},
+							"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/208/canvas.json"
+						}
+					],
+					"metadata": [
+						{
+							"label": "Record in Omeka",
+							"value": "<a href=\"/items/show/208\">View page</a>"
+						},
+						{
+							"label": "Title",
+							"value": "Radha"
+						},
+						{
+							"label": "Link",
+							"value": "http://collections.vam.ac.uk/item/O41628/radha-painting-unknown/"
+						},
+						{
+							"label": "Repository",
+							"value": "Victoria and Albert Museum"
+						},
+						{
+							"label": "Accession Number",
+							"value": "IS.46-1953"
+						},
+						{
+							"label": "Provenance",
+							"value": "Michael Rothenstein"
+						},
+						{
+							"label": "Parent Work",
+							"value": "Basohli Rasamanjari"
+						},
+						{
+							"label": "Sequential order of folio",
+							"value": "34"
+						},
+						{
+							"label": "Date",
+							"value": "1660-1670"
+						},
+						{
+							"label": "Location",
+							"value": "Basohli, India"
+						},
+						{
+							"label": "Medium",
+							"value": "Watercolor, Gold, Beetle Wings; Paper"
+						},
+						{
+							"label": "Size (H x W cm)",
+							"value": "23.7x33.2cm"
+						},
+						{
+							"label": "Publications",
+							"value": "Archer, W. G. Indian Paintings from the Punjab Hills; a Survey and History of Pahari Miniature Painting. London, New York: Sotheby Parke Bernet, 1973."
+						}
+					],
+					"otherContent": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/208/annolist.json",
+							"@type": "sc:AnnotationList"
+						}
+					],
+					"related": {
+						"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/208/manifest.json",
+						"label": "Basohli Rasamanjari ",
+						"format": ""
+					}
+				},
+				{
+					"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/207/canvas.json",
+					"label": "Radha Confides in Companion",
+					"@type": "sc:Canvas",
+					"width": 714,
+					"height": 540,
+					"images": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/211/anno.json",
+							"motivation": "sc:painting",
+							"@type": "oa:Annotation",
+							"resource": {
+								"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/9ce2d38736662e194e4ca2ae581b14de.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 714,
+								"height": 540,
+								"service": {
+									"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/9ce2d38736662e194e4ca2ae581b14de.jpg",
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level2.json"
+								}
+							},
+							"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/207/canvas.json"
+						}
+					],
+					"metadata": [
+						{
+							"label": "Record in Omeka",
+							"value": "<a href=\"/items/show/207\">View page</a>"
+						},
+						{
+							"label": "Title",
+							"value": "Radha Confides in Companion"
+						},
+						{
+							"label": "Accession Number",
+							"value": "IS.49-1953"
+						},
+						{
+							"label": "Provenance",
+							"value": "Michael Rothenstein"
+						},
+						{
+							"label": "Parent Work",
+							"value": "Basohli Rasamanjari"
+						},
+						{
+							"label": "Sequential order of folio",
+							"value": "33"
+						},
+						{
+							"label": "Date",
+							"value": "1660-1670"
+						},
+						{
+							"label": "Location",
+							"value": "Basholi, India"
+						},
+						{
+							"label": "Medium",
+							"value": "Watercolor, Gold, Beetle Wings; Paper"
+						},
+						{
+							"label": "Size (H x W cm)",
+							"value": "23.4x33cm"
+						},
+						{
+							"label": "Text",
+							"value": "On the verso in Sanskrit: \"O sakhi! I am unable to say how lucky you are, for your lover adorns your body with jewel-studded ornaments. But my beloved, afraid even of a slight interruption in his gazing at me, does not decorate me.\"\r\nTranslation by Randhawa and Bhambri (1967)"
+						},
+						{
+							"label": "Paratext",
+							"value": "On the top in Takri: \"love proud\"  \r\nOn the left border in Takri 33"
+						},
+						{
+							"label": "Publications",
+							"value": "Archer, W. G. Indian Paintings from the Punjab Hills; a Survey and History of Pahari Miniature Painting. London, New York: Sotheby Parke Bernet, 1973."
+						}
+					],
+					"otherContent": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/207/annolist.json",
+							"@type": "sc:AnnotationList"
+						}
+					],
+					"related": {
+						"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/207/manifest.json",
+						"label": "Basohli Rasamanjari ",
+						"format": ""
+					}
+				},
+				{
+					"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/206/canvas.json",
+					"label": "A Nayika and Her Lover",
+					"@type": "sc:Canvas",
+					"width": 687,
+					"height": 493,
+					"images": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/210/anno.json",
+							"motivation": "sc:painting",
+							"@type": "oa:Annotation",
+							"resource": {
+								"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/a677d8c596ef6108e4fe2ee67d37a8fd.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 687,
+								"height": 493,
+								"service": {
+									"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/a677d8c596ef6108e4fe2ee67d37a8fd.jpg",
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level2.json"
+								}
+							},
+							"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/206/canvas.json"
+						}
+					],
+					"metadata": [
+						{
+							"label": "Record in Omeka",
+							"value": "<a href=\"/items/show/206\">View page</a>"
+						},
+						{
+							"label": "Title",
+							"value": "A Nayika and Her Lover"
+						},
+						{
+							"label": "Link",
+							"value": "https://harvardartmuseums.org/art/303829"
+						},
+						{
+							"label": "Repository",
+							"value": "Harvard Art Museum"
+						},
+						{
+							"label": "Accession Number",
+							"value": "1972.74"
+						},
+						{
+							"label": "Provenance",
+							"value": "Harvard Art Museums/Arthur M. Sackler Museum, Gift of John Kenneth Galbraith, 1972"
+						},
+						{
+							"label": "Parent Work",
+							"value": "Basohli Rasamanjari"
+						},
+						{
+							"label": "Sequential order of folio",
+							"value": "31"
+						},
+						{
+							"label": "Date",
+							"value": "1660-1670"
+						},
+						{
+							"label": "Location",
+							"value": "Basohli Rasamanjari"
+						},
+						{
+							"label": "Medium",
+							"value": "Watercolor, Gold, Beetle Wings; Paper"
+						},
+						{
+							"label": "Size (H x W cm)",
+							"value": "23.4 x 33 cm"
+						},
+						{
+							"label": "Publications",
+							"value": "Stuart Cary Welch and Milo Cleveland Beach, Gods, Thrones, and Peacocks Northern Indian Painting from Two Traditions, exh. cat., Harry N. Abrams, Inc. (New York, NY, 1965), page 25/figure 21\r\n\r\nKristin A. Mortimer and William G. Klingelhofer, Harvard University Art Museums: A Guide to the Collections, Harvard University Art Museums and Abbeville Press (Cambridge and New York, 1986), page 93/figure 101\r\n\r\nJames Cuno, Alvin L. Clark, Jr., Ivan Gaskell, and William W. Robinson, Harvard's Art Museums: 100 Years of Collecting, ed. James Cuno, Harvard University Art Museums and Harry N. Abrams, Inc. (Cambridge, MA, 1996), page 148-149\r\n\r\nHarvard University Art Museums, Masterpieces of world art : Fogg Art Museum, Arthur M. Sackler Museum, Busch-Reisinger Museum, 1997\r\n\r\nHarvard University Art Museums, Harvard University Art Museums Annual Report 1997-98 (Cambridge, MA, 1999), p. 33\r\n\r\nStephan Wolohojian and Alvin L. Clark, Jr., Harvard Art Museum/ Handbook, ed. Stephan Wolohojian, Harvard Art Museum (Cambridge, 2008), p. 104."
+						},
+						{
+							"label": "Exhibition History",
+							"value": "India: From Tribe to Court, Fogg Art Museum, Cambridge, 01/01/1981 - 01/01/1981\r\n\r\nThe Arts of Krishna Bhakti, Fogg Art Museum, Cambridge, 03/09/1983 - 05/01/1983\r\n\r\nOut of the Hills: Miniature Painting from Himalayan India, Harvard University Art Museums, Fogg Art Museum, Cambridge, 05/26/1984 - 07/08/1984\r\n\r\nAmbassador's Choice: The Galbraith Collection of Indian Painting, Harvard University Art Museums, Arthur M. Sackler Museum, Cambridge, 02/15/1986 - 04/06/1986\r\n\r\nGods, Thrones, and Peacocks - Revisited: Northern Indian Miniatures from two Traditions, Fifteenth to Nineteenth Centuries, Harvard University Art Museums, Cambridge, 03/31/1990 - 06/10/1990\r\n\r\nHot as Curry - Subtle as Moonlight: Masterpieces of Rajput Painting, Harvard University Art Museums, Cambridge, 11/02/1991 - 12/20/1991\r\n\r\nFrom India's Hills and Plains: Rajput Painting from the Punjab and Rajasthan, 17th through 19th Centuries, Harvard University Art Museums, Cambridge, 09/04/1993 - 10/31/1993\r\n\r\nRasika, the Discerning Connoisseur: Indian Paintings from the John Kenneth Galbraith Collection, Harvard University Art Museums, Cambridge, 01/31/1998 - 04/05/1998\r\n\r\nThe Sensuous and the Sublime: Representations of Love in the Arts of the Middle East and Southern Asia, Harvard University Art Museums, Cambridge, 07/07/2001 - 12/30/2001\r\n\r\nPavilions of Love: A Ritual Space in Indian Painting, Harvard University Art Museums, Arthur M. Sackler Museum, Cambridge, 05/10/2007 - 09/23/2007"
+						}
+					],
+					"otherContent": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/206/annolist.json",
+							"@type": "sc:AnnotationList"
+						}
+					],
+					"related": {
+						"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/206/manifest.json",
+						"label": "Basohli Rasamanjari ",
+						"format": ""
+					}
+				},
+				{
+					"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/205/canvas.json",
+					"label": "The Delighted One ",
+					"@type": "sc:Canvas",
+					"width": 750,
+					"height": 540,
+					"images": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/209/anno.json",
+							"motivation": "sc:painting",
+							"@type": "oa:Annotation",
+							"resource": {
+								"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/48031f89060f88847ae67fadd91a9b45.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 750,
+								"height": 540,
+								"service": {
+									"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/48031f89060f88847ae67fadd91a9b45.jpg",
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level2.json"
+								}
+							},
+							"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/205/canvas.json"
+						}
+					],
+					"metadata": [
+						{
+							"label": "Record in Omeka",
+							"value": "<a href=\"/items/show/205\">View page</a>"
+						},
+						{
+							"label": "Title",
+							"value": "The Delighted One"
+						},
+						{
+							"label": "Link",
+							"value": "https://www.metmuseum.org/art/collection/search/76008"
+						},
+						{
+							"label": "Repository",
+							"value": "San Diego Museum of Arts"
+						},
+						{
+							"label": "Accession Number",
+							"value": "1990.1039"
+						},
+						{
+							"label": "Provenance",
+							"value": "Edwin Binney 3rd Collection Accession"
+						},
+						{
+							"label": "Parent Work",
+							"value": "Basohli Rasamanjari"
+						},
+						{
+							"label": "Sequential order of folio",
+							"value": "29"
+						},
+						{
+							"label": "Date",
+							"value": "1660-1670"
+						},
+						{
+							"label": "Location",
+							"value": "Basohli, India"
+						},
+						{
+							"label": "Medium",
+							"value": "Watercolor, Gold, Beetle Wings; Paper"
+						},
+						{
+							"label": "Size (H x W cm)",
+							"value": "23.4 x 33cm"
+						},
+						{
+							"label": "Paratext",
+							"value": "On recto in Takri: \"The delighted one\""
+						},
+						{
+							"label": "Publications",
+							"value": "Guy, John. Wonder of the Age: Master Painters of India, 1100-1900. 2012."
+						},
+						{
+							"label": "Exhibition History",
+							"value": "New York. The Metropolitan Museum of Art. \"Wonder of the Age: Master Painters of India, 1100-1900. \" September 26, 2011–January 8, 2012."
+						}
+					],
+					"otherContent": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/205/annolist.json",
+							"@type": "sc:AnnotationList"
+						}
+					],
+					"related": {
+						"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/205/manifest.json",
+						"label": "Basohli Rasamanjari ",
+						"format": ""
+					}
+				},
+				{
+					"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/204/canvas.json",
+					"label": "Krishna Visiting Tearful Radha\r\n",
+					"@type": "sc:Canvas",
+					"width": 704,
+					"height": 540,
+					"images": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/208/anno.json",
+							"motivation": "sc:painting",
+							"@type": "oa:Annotation",
+							"resource": {
+								"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/35f3d86f7ca1196469282ccfcf0e4e88.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 704,
+								"height": 540,
+								"service": {
+									"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/35f3d86f7ca1196469282ccfcf0e4e88.jpg",
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level2.json"
+								}
+							},
+							"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/204/canvas.json"
+						}
+					],
+					"metadata": [
+						{
+							"label": "Record in Omeka",
+							"value": "<a href=\"/items/show/204\">View page</a>"
+						},
+						{
+							"label": "Title",
+							"value": "Krishna Visiting Tearful Radha"
+						},
+						{
+							"label": "Link",
+							"value": "https://collections.vam.ac.uk/item/O41613/krishna-and-radha-painting-unknown/"
+						},
+						{
+							"label": "Repository",
+							"value": "Victoria and Albert Museum"
+						},
+						{
+							"label": "Accession Number",
+							"value": "IS.47-1953"
+						},
+						{
+							"label": "Provenance",
+							"value": "Michael Rothenstein"
+						},
+						{
+							"label": "Parent Work",
+							"value": "Basohli Rasamanjari"
+						},
+						{
+							"label": "Sequential order of folio",
+							"value": "28"
+						},
+						{
+							"label": "Date",
+							"value": "1660-1670"
+						},
+						{
+							"label": "Location",
+							"value": "Basholi, India"
+						},
+						{
+							"label": "Medium",
+							"value": "Watercolor, Gold, Beetle Wings; Paper."
+						},
+						{
+							"label": "Size (H x W cm)",
+							"value": "23.4x33cm"
+						},
+						{
+							"label": "Text",
+							"value": "On verso in Sanskrit: Radha's eyes were filled with tears when she saw Krishna coming wearing mango blossoms in his ears and his cheeks yellow with pollen"
+						},
+						{
+							"label": "Paratext",
+							"value": "In Takri on the left  \"'One who grieves at the loss of her lover\" and on the top \"28\""
+						},
+						{
+							"label": "Publications",
+							"value": "Archer, W. G. Indian Paintings from the Punjab Hills; a Survey and History of Pahari Miniature Painting. London, New York: Sotheby Parke Bernet, 1973.\r\nBhānudatta Miśra, et al. Basohli Paintings of the Rasamanjari. Abhinav Publications, 1981."
+						}
+					],
+					"otherContent": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/204/annolist.json",
+							"@type": "sc:AnnotationList"
+						}
+					],
+					"related": {
+						"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/204/manifest.json",
+						"label": "Basohli Rasamanjari ",
+						"format": ""
+					}
+				},
+				{
+					"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/194/canvas.json",
+					"label": "Radha and Companion in Pavillion",
+					"@type": "sc:Canvas",
+					"width": 1400,
+					"height": 1050,
+					"images": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/197/anno.json",
+							"motivation": "sc:painting",
+							"@type": "oa:Annotation",
+							"resource": {
+								"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/ca20c64cc47c5fd2e7c5b73e160e4b6a.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 1400,
+								"height": 1050,
+								"service": {
+									"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/ca20c64cc47c5fd2e7c5b73e160e4b6a.jpg",
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level2.json"
+								}
+							},
+							"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/194/canvas.json"
+						}
+					],
+					"metadata": [
+						{
+							"label": "Record in Omeka",
+							"value": "<a href=\"/items/show/194\">View page</a>"
+						},
+						{
+							"label": "Title",
+							"value": "Radha and Companion in Pavillion"
+						},
+						{
+							"label": "Link",
+							"value": "https://collections.vam.ac.uk/item/O41607/radha-painting-unknown/"
+						},
+						{
+							"label": "Repository",
+							"value": "Victoria and Albert Museum"
+						},
+						{
+							"label": "Accession Number",
+							"value": "IS 50-1953"
+						},
+						{
+							"label": "Provenance",
+							"value": "Michael Rothenstein"
+						},
+						{
+							"label": "Parent Work",
+							"value": "Rasamanjari"
+						},
+						{
+							"label": "Sequential order of folio",
+							"value": "24"
+						},
+						{
+							"label": "Date",
+							"value": "166-1670"
+						},
+						{
+							"label": "Location",
+							"value": "Basohli, India"
+						},
+						{
+							"label": "Medium",
+							"value": "Opaque watercolor, gold, and beetle-wing cases on paper"
+						},
+						{
+							"label": "Size (H x W cm)",
+							"value": "24.0 x 33.0 cm"
+						},
+						{
+							"label": "Text",
+							"value": "On the reverse: 'A sakhi who knows the nayika's secret speaks to her in jest: \"What was to happen has happened; what is to happen will happen; and what is happening is also happening. Any attempt on your part at concealment is therefore useless\" '"
+						},
+						{
+							"label": "Paratext",
+							"value": "In Takri: 'one who has been found out or whose secret has been exposed'"
+						}
+					],
+					"otherContent": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/194/annolist.json",
+							"@type": "sc:AnnotationList"
+						}
+					],
+					"related": {
+						"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/194/manifest.json",
+						"label": "Basohli Rasamanjari ",
+						"format": ""
+					}
+				},
+				{
+					"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/193/canvas.json",
+					"label": "Krishna Visiting Tearful Radha\r\n",
+					"@type": "sc:Canvas",
+					"width": 1400,
+					"height": 1060,
+					"images": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/196/anno.json",
+							"motivation": "sc:painting",
+							"@type": "oa:Annotation",
+							"resource": {
+								"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/bc33b128c0ecc3b1f103f9b34d8f48bf.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 1400,
+								"height": 1060,
+								"service": {
+									"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/bc33b128c0ecc3b1f103f9b34d8f48bf.jpg",
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level2.json"
+								}
+							},
+							"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/193/canvas.json"
+						}
+					],
+					"metadata": [
+						{
+							"label": "Record in Omeka",
+							"value": "<a href=\"/items/show/193\">View page</a>"
+						},
+						{
+							"label": "Title",
+							"value": "Krishna Visiting Tearful Radha"
+						},
+						{
+							"label": "Link",
+							"value": "https://collections.vam.ac.uk/item/O41613/krishna-and-radha-painting-unknown/"
+						},
+						{
+							"label": "Repository",
+							"value": "Victoria and Albert Museum"
+						},
+						{
+							"label": "Accession Number",
+							"value": "IS.47-1953"
+						},
+						{
+							"label": "Provenance",
+							"value": "Michael Rothenstein"
+						},
+						{
+							"label": "Parent Work",
+							"value": "Basohli Rasamanjari"
+						},
+						{
+							"label": "Sequential order of folio",
+							"value": "28"
+						},
+						{
+							"label": "Date",
+							"value": "1660-1670"
+						},
+						{
+							"label": "Location",
+							"value": "Basohli, India"
+						},
+						{
+							"label": "Medium",
+							"value": "Opaque watercolor, gold, and beetle-wing cases on paper"
+						},
+						{
+							"label": "Size (H x W cm)",
+							"value": "23.1x33cm"
+						},
+						{
+							"label": "Text",
+							"value": "On the Reverse in Sanskrit: 'Radha's eyes were filled with tears when she saw Krishna coming wearing mango blossoms in his ears and his cheeks yellow with pollen'"
+						},
+						{
+							"label": "Paratext",
+							"value": "In Takri : One who grieves at the loss of her lover."
+						}
+					],
+					"otherContent": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/193/annolist.json",
+							"@type": "sc:AnnotationList"
+						}
+					],
+					"related": {
+						"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/193/manifest.json",
+						"label": "Basohli Rasamanjari ",
+						"format": ""
+					}
+				},
+				{
+					"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/192/canvas.json",
+					"label": "Radha Throws Axe into Pond",
+					"@type": "sc:Canvas",
+					"width": 1400,
+					"height": 1060,
+					"images": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/195/anno.json",
+							"motivation": "sc:painting",
+							"@type": "oa:Annotation",
+							"resource": {
+								"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/ec4b20262c16a0294bab62f7fb30384f.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 1400,
+								"height": 1060,
+								"service": {
+									"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/ec4b20262c16a0294bab62f7fb30384f.jpg",
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level2.json"
+								}
+							},
+							"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/192/canvas.json"
+						}
+					],
+					"metadata": [
+						{
+							"label": "Record in Omeka",
+							"value": "<a href=\"/items/show/192\">View page</a>"
+						},
+						{
+							"label": "Title",
+							"value": "Radha Throws Axe into Pond"
+						},
+						{
+							"label": "Link",
+							"value": "http://collections.vam.ac.uk/item/O41601/radha-painting-unknown/"
+						},
+						{
+							"label": "Repository",
+							"value": "Victoria and Albert Museum"
+						},
+						{
+							"label": "Accession Number",
+							"value": "IS. 48-1953"
+						},
+						{
+							"label": "Provenance",
+							"value": "Michael Rothenstein"
+						},
+						{
+							"label": "Parent Work",
+							"value": "Basohli Rasamanjari"
+						},
+						{
+							"label": "Sequential order of folio",
+							"value": "23"
+						},
+						{
+							"label": "Date",
+							"value": "1660-1670"
+						},
+						{
+							"label": "Location",
+							"value": "Basohli, India"
+						},
+						{
+							"label": "Size (H x W cm)",
+							"value": "23.4x33cm"
+						},
+						{
+							"label": "Text",
+							"value": "On the reverse in Sanskrit: 'In the winter season, her husband having told the servant to cut the ber tree, the doe-eyed nayika dropped the axe in the water'"
+						},
+						{
+							"label": "Paratext",
+							"value": "Top of object in Takri :        'kria vidagdha' \r\n'the act of the resourceful mistress'"
+						},
+						{
+							"label": "Publications",
+							"value": "Archer, W. G. Indian Paintings from the Punjab Hills; a Survey and History of Pahari Miniature Painting. London, New York: Sotheby Parke Bernet, 1973.\r\nAyers, J. Oriental Art in the Victoria and Albert Museum, London 1983.\r\nBhānudatta Miśra, et al. Basohli Paintings of the Rasamanjari. Abhinav Publications, 1981. \r\nSwallow, D., Stronge, S., Crill, R., Koezuka, T., \"The Art of the Indian Courts. Miniature Painting and Decorative Arts\", Victoria & Albert Museum and NHK Kinki Media Plan, 1993."
+						}
+					],
+					"otherContent": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/192/annolist.json",
+							"@type": "sc:AnnotationList"
+						}
+					],
+					"related": {
+						"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/192/manifest.json",
+						"label": "Basohli Rasamanjari ",
+						"format": ""
+					}
+				},
+				{
+					"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/191/canvas.json",
+					"label": "Nayika who is Clever in Speech",
+					"@type": "sc:Canvas",
+					"width": 2500,
+					"height": 1884,
+					"images": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/194/anno.json",
+							"motivation": "sc:painting",
+							"@type": "oa:Annotation",
+							"resource": {
+								"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/ed9093e8c21040d3ffd20c5bd5fc1c50.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 2500,
+								"height": 1884,
+								"service": {
+									"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/ed9093e8c21040d3ffd20c5bd5fc1c50.jpg",
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level2.json"
+								}
+							},
+							"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/191/canvas.json"
+						}
+					],
+					"metadata": [
+						{
+							"label": "Record in Omeka",
+							"value": "<a href=\"/items/show/191\">View page</a>"
+						},
+						{
+							"label": "Title",
+							"value": "Vag Vidhaghda Nayika: Nayika who is Clever in Speech"
+						},
+						{
+							"label": "Repository",
+							"value": "<span style=\"font-weight: 400;\">British Museum</span>"
+						},
+						{
+							"label": "Accession Number",
+							"value": "1948,1009,0.107"
+						},
+						{
+							"label": "Parent Work",
+							"value": "Rasamanjari"
+						},
+						{
+							"label": "Sequential order of folio",
+							"value": "22"
+						},
+						{
+							"label": "Date",
+							"value": "1660-1670"
+						},
+						{
+							"label": "Location",
+							"value": "Basohli, India"
+						},
+						{
+							"label": "Medium",
+							"value": "Opaque watercolor, gold, and beetle-wing cases on paper"
+						},
+						{
+							"label": "Size (H x W cm)",
+							"value": "23.4x33cm"
+						},
+						{
+							"label": "Exhibition History",
+							"value": "2007 9 Aug-11 Nov, London, BM, Faith, Narrative and Desire: Masterpieces of Indian Painting in the British Museum.\r\n2018 Dec - 2019 Dec, London, BM, G33, rotation."
+						}
+					],
+					"otherContent": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/191/annolist.json",
+							"@type": "sc:AnnotationList"
+						}
+					],
+					"related": {
+						"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/191/manifest.json",
+						"label": "Basohli Rasamanjari ",
+						"format": ""
+					}
+				},
+				{
+					"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/190/canvas.json",
+					"label": "Lady Blames Cat for Scratches Inflicted by Lover",
+					"@type": "sc:Canvas",
+					"width": 2500,
+					"height": 1917,
+					"images": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/193/anno.json",
+							"motivation": "sc:painting",
+							"@type": "oa:Annotation",
+							"resource": {
+								"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/bc002427459cfbc8be0fa09bc69ada6a.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 2500,
+								"height": 1917,
+								"service": {
+									"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/bc002427459cfbc8be0fa09bc69ada6a.jpg",
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level2.json"
+								}
+							},
+							"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/190/canvas.json"
+						}
+					],
+					"metadata": [
+						{
+							"label": "Record in Omeka",
+							"value": "<a href=\"/items/show/190\">View page</a>"
+						},
+						{
+							"label": "Title",
+							"value": "Lady Blames Cat for Scratches Inflicted by Lover"
+						},
+						{
+							"label": "Repository",
+							"value": "Victoria and Albert Museum"
+						},
+						{
+							"label": "Accession Number",
+							"value": "IS 20-1958"
+						},
+						{
+							"label": "Parent Work",
+							"value": "Rasamanjari"
+						},
+						{
+							"label": "Sequential order of folio",
+							"value": "21"
+						},
+						{
+							"label": "Date",
+							"value": "16670-1670"
+						},
+						{
+							"label": "Location",
+							"value": "Basohli, India"
+						},
+						{
+							"label": "Medium",
+							"value": "Opaque watercolor, gold, and beetle-wing cases on paper"
+						},
+						{
+							"label": "Size (H x W cm)",
+							"value": "23.6 x 33.1 cm"
+						},
+						{
+							"label": "Paratext",
+							"value": "In Takri at top :  ‘gupata parakia' \r\n'she who is secretly another's'  \r\nOn left border in Takri:  '21'"
+						},
+						{
+							"label": "Publications",
+							"value": "Swallow, Deborah and John Guy. Arts of India: 1550-1900. London: V&A Publications, 1990. \r\n\r\nStronge, S. \"The Arts of the Sikh Kingdoms\", V&A, 1999.\r\n\r\nGoswamy, B. N., et al. Pahari Masters : Court Painters of Northern India. Artibus Asiae Publishers : Museum Reitberg, 1992.\r\n\r\nTopsfield, Andrew, An introduction to Indian Court Painting, H.M.S.O., London, 1984. \r\n\r\nArcher, W. G. Indian paintings from the Punjab Hills : a survey and history of Pahari miniature painting. London;Oxford University Press, 1973."
+						}
+					],
+					"otherContent": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/190/annolist.json",
+							"@type": "sc:AnnotationList"
+						}
+					],
+					"related": {
+						"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/190/manifest.json",
+						"label": "Basohli Rasamanjari ",
+						"format": ""
+					}
+				},
+				{
+					"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/189/canvas.json",
+					"label": "A Bitter Look",
+					"@type": "sc:Canvas",
+					"width": 746,
+					"height": 540,
+					"images": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/192/anno.json",
+							"motivation": "sc:painting",
+							"@type": "oa:Annotation",
+							"resource": {
+								"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/4f0cdc4b94228e88d401f23de426f688.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 746,
+								"height": 540,
+								"service": {
+									"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/4f0cdc4b94228e88d401f23de426f688.jpg",
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level2.json"
+								}
+							},
+							"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/189/canvas.json"
+						}
+					],
+					"metadata": [
+						{
+							"label": "Record in Omeka",
+							"value": "<a href=\"/items/show/189\">View page</a>"
+						},
+						{
+							"label": "Source",
+							"value": "Rasamanjari"
+						},
+						{
+							"label": "Date",
+							"value": "1660-1670"
+						},
+						{
+							"label": "Title",
+							"value": "A Bitter Look"
+						},
+						{
+							"label": "Repository",
+							"value": "Dogra Art Gallery, Jammu, India"
+						},
+						{
+							"label": "Parent Work",
+							"value": "Rasamanjari"
+						},
+						{
+							"label": "Sequential order of folio",
+							"value": "17"
+						},
+						{
+							"label": "Date",
+							"value": "1660-1670"
+						},
+						{
+							"label": "Medium",
+							"value": "Opaque watercolor, gold, and beetle-wing cases on paper"
+						},
+						{
+							"label": "Size (H x W cm)",
+							"value": "23.4x33cm"
+						},
+						{
+							"label": "Publications",
+							"value": "Randhawa, M. S., S. D. Bhambri, and Bhānudatta Miśra. Basohli Paintings of the Rasamanjari. New Delhi: Abhinav Publications, 1981."
+						}
+					],
+					"otherContent": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/189/annolist.json",
+							"@type": "sc:AnnotationList"
+						}
+					],
+					"related": {
+						"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/189/manifest.json",
+						"label": "Basohli Rasamanjari ",
+						"format": ""
+					}
+				},
+				{
+					"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/187/canvas.json",
+					"label": "Nayika who Delights in Love",
+					"@type": "sc:Canvas",
+					"width": 560,
+					"height": 415,
+					"images": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/191/anno.json",
+							"motivation": "sc:painting",
+							"@type": "oa:Annotation",
+							"resource": {
+								"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/33d1def40a3a0a6501824bf44b6daa0b.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 560,
+								"height": 415,
+								"service": {
+									"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/33d1def40a3a0a6501824bf44b6daa0b.jpg",
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level2.json"
+								}
+							},
+							"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/187/canvas.json"
+						}
+					],
+					"metadata": [
+						{
+							"label": "Record in Omeka",
+							"value": "<a href=\"/items/show/187\">View page</a>"
+						},
+						{
+							"label": "Title",
+							"value": "Nayika Delights in Love"
+						},
+						{
+							"label": "Repository",
+							"value": "Dogra Art Gallery, Jammu"
+						},
+						{
+							"label": "Parent Work",
+							"value": "Basohli Rasamanjari"
+						},
+						{
+							"label": "Sequential order of folio",
+							"value": "10"
+						},
+						{
+							"label": "Date",
+							"value": "1660-1670"
+						},
+						{
+							"label": "Medium",
+							"value": "Opaque watercolor, gold, silver, and beetle wing cases on paper"
+						},
+						{
+							"label": "Size (H x W cm)",
+							"value": "23.4x33cm"
+						},
+						{
+							"label": "Publications",
+							"value": "Randhawa, M. S., S. D. Bhambri, and Bhānudatta Miśra. Basohli Paintings of the Rasamanjari. New Delhi: Abhinav Publications, 1981."
+						}
+					],
+					"otherContent": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/187/annolist.json",
+							"@type": "sc:AnnotationList"
+						}
+					],
+					"related": {
+						"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/187/manifest.json",
+						"label": "Basohli Rasamanjari ",
+						"format": ""
+					}
+				},
+				{
+					"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/186/canvas.json",
+					"label": null,
+					"@type": "sc:Canvas",
+					"width": 664,
+					"height": 481,
+					"images": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/190/anno.json",
+							"motivation": "sc:painting",
+							"@type": "oa:Annotation",
+							"resource": {
+								"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/2e6978cacc4782680b4e51be54a7041a.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 664,
+								"height": 481,
+								"service": {
+									"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/2e6978cacc4782680b4e51be54a7041a.jpg",
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level2.json"
+								}
+							},
+							"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/186/canvas.json"
+						}
+					],
+					"metadata": [
+						{
+							"label": "Record in Omeka",
+							"value": "<a href=\"/items/show/186\">View page</a>"
+						},
+						{
+							"label": "Title",
+							"value": "Folio 7"
+						},
+						{
+							"label": "Sequential order of folio",
+							"value": "7"
+						},
+						{
+							"label": "Date",
+							"value": "1660-1670"
+						},
+						{
+							"label": "Location",
+							"value": "Basohli, Kashmir, India"
+						},
+						{
+							"label": "Medium",
+							"value": "Opaque watercolor, gold, silver, and beetle wing cases on paper"
+						},
+						{
+							"label": "Size (H x W cm)",
+							"value": "23.4 x 33 cm"
+						},
+						{
+							"label": "Publications",
+							"value": "Randhawa, M. S., S. D. Bhambri, and Bhānudatta Miśra. Basohli Paintings of the Rasamanjari. New Delhi: Abhinav Publications, 1981"
+						}
+					],
+					"otherContent": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/186/annolist.json",
+							"@type": "sc:AnnotationList"
+						}
+					],
+					"related": {
+						"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/186/manifest.json",
+						"label": "Basohli Rasamanjari ",
+						"format": ""
+					}
+				},
+				{
+					"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/185/canvas.json",
+					"label": "Jnata-Yauana Mugdha",
+					"@type": "sc:Canvas",
+					"width": 540,
+					"height": 401,
+					"images": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/189/anno.json",
+							"motivation": "sc:painting",
+							"@type": "oa:Annotation",
+							"resource": {
+								"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/d19002a46a0e517b07dc037f31940da8.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 540,
+								"height": 401,
+								"service": {
+									"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/d19002a46a0e517b07dc037f31940da8.jpg",
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level2.json"
+								}
+							},
+							"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/185/canvas.json"
+						}
+					],
+					"metadata": [
+						{
+							"label": "Record in Omeka",
+							"value": "<a href=\"/items/show/185\">View page</a>"
+						},
+						{
+							"label": "Source",
+							"value": "Basohli Rasamanjari"
+						},
+						{
+							"label": "Title",
+							"value": "Nayika Conscious of her Youth"
+						},
+						{
+							"label": "Repository",
+							"value": "Dogra Art Gallery in Jammu"
+						},
+						{
+							"label": "Parent Work",
+							"value": "Basohli Rasamanjari"
+						},
+						{
+							"label": "Sequential order of folio",
+							"value": "6"
+						},
+						{
+							"label": "Date",
+							"value": "1660-1670"
+						},
+						{
+							"label": "Location",
+							"value": "Dogra Art Gallery in Jammu"
+						},
+						{
+							"label": "Medium",
+							"value": "Opaque watercolor, gold, silver, and beetle wing cases on paper"
+						},
+						{
+							"label": "Size (H x W cm)",
+							"value": "23.4x33cm"
+						},
+						{
+							"label": "Publications",
+							"value": "Randhawa, M. S., S. D. Bhambri, and Bhānudatta Miśra. Basohli Paintings of the Rasamanjari. New Delhi: Abhinav Publications, 1981."
+						}
+					],
+					"otherContent": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/185/annolist.json",
+							"@type": "sc:AnnotationList"
+						}
+					],
+					"related": {
+						"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/185/manifest.json",
+						"label": "Basohli Rasamanjari ",
+						"format": ""
+					}
+				},
+				{
+					"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/184/canvas.json",
+					"label": "Sviya Nayika",
+					"@type": "sc:Canvas",
+					"width": 698,
+					"height": 540,
+					"images": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/files/188/anno.json",
+							"motivation": "sc:painting",
+							"@type": "oa:Annotation",
+							"resource": {
+								"@id": "https://s3.amazonaws.com/atg-prod-oaas-files/mappingcolor/original/3c227c04b761f0716f94bbb9e74d9f94.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 698,
+								"height": 540,
+								"service": {
+									"@id": "https://iiif.omeka.fas.harvard.edu/loris/atg-prod-oaas-files/mappingcolor/original/3c227c04b761f0716f94bbb9e74d9f94.jpg",
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level2.json"
+								}
+							},
+							"on": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/184/canvas.json"
+						}
+					],
+					"metadata": [
+						{
+							"label": "Record in Omeka",
+							"value": "<a href=\"/items/show/184\">View page</a>"
+						},
+						{
+							"label": "Title",
+							"value": "Sviya Nayika, folio 3."
+						},
+						{
+							"label": "Classification",
+							"value": "Painted Album Page"
+						},
+						{
+							"label": "Repository",
+							"value": "Dogra Art Gallery, Jammu"
+						},
+						{
+							"label": "Folio Number",
+							"value": "3"
+						},
+						{
+							"label": "Parent Work",
+							"value": "Basohli Rasamanjari"
+						},
+						{
+							"label": "Sequential order of folio",
+							"value": "3"
+						},
+						{
+							"label": "Date",
+							"value": "1660-1670"
+						},
+						{
+							"label": "Location",
+							"value": "Basohli, Kashmir, India"
+						},
+						{
+							"label": "Medium",
+							"value": "Opaque watercolor, gold, silver, and beetle wing cases on paper"
+						},
+						{
+							"label": "Size (H x W cm)",
+							"value": "23.4 x 33 cm"
+						},
+						{
+							"label": "Publications",
+							"value": "Randhawa, M. S., S. D. Bhambri, and Bhānudatta Miśra. Basohli Paintings of the Rasamanjari. New Delhi: Abhinav Publications, 1981."
+						}
+					],
+					"otherContent": [
+						{
+							"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/184/annolist.json",
+							"@type": "sc:AnnotationList"
+						}
+					],
+					"related": {
+						"@id": "https://mappingcolor.omeka.fas.harvard.edu/oa/items/184/manifest.json",
+						"label": "Basohli Rasamanjari ",
+						"format": ""
+					}
 				}
 			]
 		}
